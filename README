@@ -1,8 +1,21 @@
+Current version
+		3.0 beta 2
+		
 Authors: 
         Bill Duenskie
         Rob Rohan (sponsored by Daemon - http://daemon.com.au)
 		Andy Jarrett
 		
+Background
+============
+
+Some background first (as far as I am aware). Bill Duenskie started the project and got it off the ground and running. He then passed it over for Rob Rohan to run with it who has done an excellent job and got it to 3.0 Beta. This introduced the inclusion of other CF engines via the CFEclipse dictionaries which makes it very easy to manage. I then contacted Rob to find out the current situation and have now taken the reign myself.
+
+What does this mean though? First and foremost I am not a TextMate bundle creator (yet) but there are snippets of code lying around which needed to be brought together. My first job, which is what took me down this path, is adding Russ Johnson's (@russ_johnson) coding highlighting/folder for scripted components. I've also added the Railo v3 dictionary from CFEclipse.
+
+As I am carrying on Rob's work I am keeping this at version 3.0 but calling it beta 2. My plan for this release is to get highlighting, folding and shortcuts standardised and stable. From there a plan for version 4.0 can be drawn up I think.
+
+
 欢迎 - Welcome
 ============
 

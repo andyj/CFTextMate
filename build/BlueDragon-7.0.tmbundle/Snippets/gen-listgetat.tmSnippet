@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>listgetat(${1:"${2:list}", ${3:position}${4:, [delimiters]}})</string>
+      <key>name</key>
+      <string>listgetat</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>listgetat</string>
+      <key>uuid</key>
+      <string>5b33609e-4800-4d0f-a928-5f72458e3c9e</string>
+   </dict>
+</plist>

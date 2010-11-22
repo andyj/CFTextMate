@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isdate(${1:${2:Object}})</string>
+      <key>name</key>
+      <string>isdate</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isdate</string>
+      <key>uuid</key>
+      <string>566a3d7c-cf55-4f2d-a8db-a2ba81c6d78d</string>
+   </dict>
+</plist>

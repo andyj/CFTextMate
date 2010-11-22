@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>lsparsecurrency(${1:"${2:String}"})</string>
+      <key>name</key>
+      <string>lsparsecurrency</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>lsparsecurrency</string>
+      <key>uuid</key>
+      <string>b76e2716-1bd2-4607-bafd-586f622aa25f</string>
+   </dict>
+</plist>

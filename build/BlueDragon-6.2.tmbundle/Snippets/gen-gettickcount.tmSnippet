@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>gettickcount(${1:})</string>
+      <key>name</key>
+      <string>gettickcount</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>gettickcount</string>
+      <key>uuid</key>
+      <string>7a380762-23a8-40e6-a266-97c1555e45f4</string>
+   </dict>
+</plist>

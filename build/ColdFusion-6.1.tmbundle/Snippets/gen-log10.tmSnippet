@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>log10(${1:${2:number}})</string>
+      <key>name</key>
+      <string>log10</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>log10</string>
+      <key>uuid</key>
+      <string>53e15bb4-6c4a-4a5b-a0df-83ce8a5ec2a0</string>
+   </dict>
+</plist>

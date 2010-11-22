@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfabort ${1:${2:showerror="$3" }${4:attributecollection="$5"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfabort</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfabort</string>
+      <key>uuid</key>
+      <string>8eb54158-dfe0-44ce-b454-81e83f0fb836</string>
+   </dict>
+</plist>

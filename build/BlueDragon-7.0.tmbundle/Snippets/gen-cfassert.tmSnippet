@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfassert ${1:} /&gt;$0</string>
+      <key>name</key>
+      <string>cfassert</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfassert</string>
+      <key>uuid</key>
+      <string>68f3c315-fd4c-4436-83b5-4be40a137d2c</string>
+   </dict>
+</plist>

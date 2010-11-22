@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>structkeylist(${1:${2:structure}${3:, [delimiter]}})</string>
+      <key>name</key>
+      <string>structkeylist</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>structkeylist</string>
+      <key>uuid</key>
+      <string>0c2408b1-7ef7-4089-8545-7e736522f62a</string>
+   </dict>
+</plist>

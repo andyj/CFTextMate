@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>week(${1:${2:date}})</string>
+      <key>name</key>
+      <string>week</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>week</string>
+      <key>uuid</key>
+      <string>9280e84c-b6ec-4ada-ac26-eaa502266828</string>
+   </dict>
+</plist>

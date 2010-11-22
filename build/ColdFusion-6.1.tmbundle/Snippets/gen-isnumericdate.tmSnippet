@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isnumericdate(${1:${2:number}})</string>
+      <key>name</key>
+      <string>isnumericdate</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isnumericdate</string>
+      <key>uuid</key>
+      <string>e1f86b76-efb1-4522-b5b6-d4ff7804cb3d</string>
+   </dict>
+</plist>

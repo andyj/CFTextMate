@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>listRemoveDuplicates(${1:"${2:list}"${3:, [delimiter]}})</string>
+      <key>name</key>
+      <string>listRemoveDuplicates</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>listRemoveDuplicates</string>
+      <key>uuid</key>
+      <string>c6b8d19f-11e1-4bfa-8c08-7aaa56555610</string>
+   </dict>
+</plist>

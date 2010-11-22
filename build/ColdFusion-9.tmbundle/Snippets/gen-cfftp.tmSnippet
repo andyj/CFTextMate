@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfftp ${1:${2:action="$3" }${4:username="$5" }${6:password="$7" }${8:server="$9" }${10:timeout="$11" }${12:port="$13" }${14:connection="$15" }${16:proxyserver="$17" }${18:retrycount="$19" }${20:stoponerror="$21" }${22:passive="$23" }${24:transfermode="$25" }${26:failifexists="$27" }${28:directory="$29" }${30:localfile="$31" }${32:remotefile="$33" }${34:item="$35" }${36:existing="$37" }${38:new="$39" }${40:name="$41" }${42:result="$43" }${44:attributes="$45" }${46:passphrase="$47" }${48:buffersize="$49" }${50:secure="$51" }${52:asciiextensionlist="$53" }${54:key="$55" }${56:actionparam="$57" }${58:fingerprint="$59"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfftp</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfftp</string>
+      <key>uuid</key>
+      <string>a47cd076-bc73-48ab-80ba-878f27f83228</string>
+   </dict>
+</plist>

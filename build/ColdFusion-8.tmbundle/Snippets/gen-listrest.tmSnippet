@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>listrest(${1:"${2:list}"${3:, [delimiters]}})</string>
+      <key>name</key>
+      <string>listrest</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>listrest</string>
+      <key>uuid</key>
+      <string>7bb9e456-66e2-40cd-88d3-7ab3e9c9180c</string>
+   </dict>
+</plist>

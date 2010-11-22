@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>arrayinsertat(${1:${2:array}, ${3:position}, ${4:value}})</string>
+      <key>name</key>
+      <string>arrayinsertat</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>arrayinsertat</string>
+      <key>uuid</key>
+      <string>9386aa10-3c20-4965-ae1c-4f22f37ded4e</string>
+   </dict>
+</plist>

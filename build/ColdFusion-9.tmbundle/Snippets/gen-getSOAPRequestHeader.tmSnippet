@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getSOAPRequestHeader(${1:"${2:namespace}", "${3:name}"${4:, [asXML]}})</string>
+      <key>name</key>
+      <string>getSOAPRequestHeader</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getSOAPRequestHeader</string>
+      <key>uuid</key>
+      <string>bd419a96-df15-4a00-9c5d-dfbbd9e75e7c</string>
+   </dict>
+</plist>

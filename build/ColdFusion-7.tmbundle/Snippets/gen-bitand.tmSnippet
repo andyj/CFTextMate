@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>bitand(${1:${2:number1}, ${3:number2}})</string>
+      <key>name</key>
+      <string>bitand</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>bitand</string>
+      <key>uuid</key>
+      <string>e132ebef-c21c-4689-9192-e9aaa9ed2c64</string>
+   </dict>
+</plist>

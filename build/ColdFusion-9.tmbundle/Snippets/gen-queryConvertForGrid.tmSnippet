@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>queryConvertForGrid(${1:"${2:query}", ${3:page}, ${4:pageSize}})</string>
+      <key>name</key>
+      <string>queryConvertForGrid</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>queryConvertForGrid</string>
+      <key>uuid</key>
+      <string>184741ec-aea6-4737-ba93-d8264c8b70cf</string>
+   </dict>
+</plist>

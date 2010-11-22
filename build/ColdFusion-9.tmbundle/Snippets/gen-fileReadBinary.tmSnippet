@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>fileReadBinary(${1:"${2:filePath}"})</string>
+      <key>name</key>
+      <string>fileReadBinary</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>fileReadBinary</string>
+      <key>uuid</key>
+      <string>68dc6abe-102b-4d70-9f4b-34ce322e1456</string>
+   </dict>
+</plist>

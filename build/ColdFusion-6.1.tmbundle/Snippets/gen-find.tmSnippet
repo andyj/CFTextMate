@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>find(${1:"${2:substring}", "${3:String}"${4:, [start]}})</string>
+      <key>name</key>
+      <string>find</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>find</string>
+      <key>uuid</key>
+      <string>164b9ba0-92c9-4fa7-ae07-a46147747a91</string>
+   </dict>
+</plist>

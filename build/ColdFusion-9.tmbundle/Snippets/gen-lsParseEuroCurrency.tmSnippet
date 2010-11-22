@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>lsParseEuroCurrency(${1:"${2:currency_string}"})</string>
+      <key>name</key>
+      <string>lsParseEuroCurrency</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>lsParseEuroCurrency</string>
+      <key>uuid</key>
+      <string>f7268f19-86b8-4ef6-9966-e9702a9ddff2</string>
+   </dict>
+</plist>

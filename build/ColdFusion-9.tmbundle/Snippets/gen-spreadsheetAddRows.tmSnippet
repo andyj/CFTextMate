@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>spreadsheetAddRows(${1:${2:spreadsheetObj}, "${3:data}", ${4:row}${5:, [insert]}})</string>
+      <key>name</key>
+      <string>spreadsheetAddRows</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>spreadsheetAddRows</string>
+      <key>uuid</key>
+      <string>02310797-1962-4a88-a595-a2b753943e49</string>
+   </dict>
+</plist>

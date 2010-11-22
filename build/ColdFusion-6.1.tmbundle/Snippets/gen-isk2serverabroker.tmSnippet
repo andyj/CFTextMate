@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isk2serverabroker(${1:})</string>
+      <key>name</key>
+      <string>isk2serverabroker</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isk2serverabroker</string>
+      <key>uuid</key>
+      <string>a1434844-5e36-43fb-9a7a-07c698da1de0</string>
+   </dict>
+</plist>

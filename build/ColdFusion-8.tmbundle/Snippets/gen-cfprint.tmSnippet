@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfprint ${1:${2:source="$3" }${4:attributestruct="$5" }${6:copies="$7" }${8:jobname="$9" }${10:orientation="$11" }${12:pages="$13" }${14:password="$15" }${16:papersize="$17" }${18:quality="$19" }${20:color="$21" }${22:coverpage="$23" }${24:type="$25" }${26:printer="$27" }${28:sides="$29"}}&gt;
+	$0
+&lt;/cfprint&gt;</string>
+      <key>name</key>
+      <string>cfprint</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfprint</string>
+      <key>uuid</key>
+      <string>f31ce243-4b5c-45f3-946b-122087395343</string>
+   </dict>
+</plist>

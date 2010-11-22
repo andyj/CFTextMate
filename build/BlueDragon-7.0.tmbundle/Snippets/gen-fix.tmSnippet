@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>fix(${1:${2:number}})</string>
+      <key>name</key>
+      <string>fix</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>fix</string>
+      <key>uuid</key>
+      <string>2206439b-15de-432a-bb5d-aa18231eb992</string>
+   </dict>
+</plist>

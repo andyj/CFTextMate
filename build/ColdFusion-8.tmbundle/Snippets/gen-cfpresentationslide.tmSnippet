@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfpresentationslide ${1:${2:audio="$3" }${4:bottomMargin="$5" }${6:duration="$7" }${8:leftMargin="$9" }${10:notes="$11" }${12:presenter="$13" }${14:rightMargin="$15" }${16:scale="$17" }${18:src="$19" }${20:title="$21" }${22:topMargin="$23" }${24:video="$25"}}&gt;
+	$0
+&lt;/cfpresentationslide&gt;</string>
+      <key>name</key>
+      <string>cfpresentationslide</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfpresentationslide</string>
+      <key>uuid</key>
+      <string>f5c7fb6e-3e88-4fef-8001-dbeb6e75e7ba</string>
+   </dict>
+</plist>

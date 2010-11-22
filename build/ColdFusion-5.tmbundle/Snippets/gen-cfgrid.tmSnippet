@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfgrid ${1:${2:name="$3" }${4:height="$5" }${6:width="$7" }${8:autowidth="$9" }${10:vspace="$11" }${12:hspace="$13" }${14:align="$15" }${16:query="$17" }${18:insert="$19" }${20:delete="$21" }${22:sort="$23" }${24:font="$25" }${26:fontsize="$27" }${28:italic="$29" }${30:bold="$31" }${32:textcolor="$33" }${34:href="$35" }${36:hrefkey="$37" }${38:target="$39" }${40:appendkey="$41" }${42:highlighthref="$43" }${44:onvalidate="$45" }${46:onerror="$47" }${48:griddataalign="$49" }${50:gridlines="$51" }${52:rowheight="$53" }${54:rowheaders="$55" }${56:rowheaderalign="$57" }${58:rowheaderfont="$59" }${60:rowheaderfontsize="$61" }${62:rowheaderitalic="$63" }${64:rowheaderbold="$65" }${66:rowheadertextcolor="$67" }${68:colheaders="$69" }${70:colheaderalign="$71" }${72:colheaderfont="$73" }${74:colheaderfontsize="$75" }${76:colheaderitalic="$77" }${78:colheaderbold="$79" }${80:colheadertextcolor="$81" }${82:bgcolor="$83" }${84:selectcolor="$85" }${86:selectmode="$87" }${88:maxrows="$89" }${90:notsupported="$91" }${92:picturebar="$93" }${94:insertbutton="$95" }${96:deletebutton="$97" }${98:sortascendingbutton="$99" }${100:sortdescendingbutton="$101"}}&gt;
+	$0
+&lt;/cfgrid&gt;</string>
+      <key>name</key>
+      <string>cfgrid</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfgrid</string>
+      <key>uuid</key>
+      <string>f37bedcd-22b4-4ff5-8fe0-3baf5e5216c6</string>
+   </dict>
+</plist>

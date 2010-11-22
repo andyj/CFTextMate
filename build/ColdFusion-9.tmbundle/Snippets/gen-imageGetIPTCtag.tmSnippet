@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageGetIPTCtag(${1:"${2:name}", "${3:tagName}"})</string>
+      <key>name</key>
+      <string>imageGetIPTCtag</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageGetIPTCtag</string>
+      <key>uuid</key>
+      <string>3439569b-eb57-4700-ba26-13545c96802a</string>
+   </dict>
+</plist>

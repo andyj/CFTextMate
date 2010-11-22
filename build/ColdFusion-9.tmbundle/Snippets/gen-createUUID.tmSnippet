@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>createUUID(${1:})</string>
+      <key>name</key>
+      <string>createUUID</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>createUUID</string>
+      <key>uuid</key>
+      <string>76b61fc9-39c4-4ee3-9429-b87d588554bb</string>
+   </dict>
+</plist>

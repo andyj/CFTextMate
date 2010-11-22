@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfregistry ${1:${2:action="$3" }${4:branch="$5" }${6:entry="$7" }${8:variable="$9" }${10:type="$11" }${12:sort="$13" }${14:directory="$15" }${16:name="$17" }${18:mode="$19" }${20:newdirectory="$21" }${22:value="$23" }${24:recurse="$25" }${26:registryversion="$27"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfregistry</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfregistry</string>
+      <key>uuid</key>
+      <string>ad104f14-c581-4a8c-b73c-a13937cdda8d</string>
+   </dict>
+</plist>

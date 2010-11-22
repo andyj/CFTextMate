@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>spreadsheetRead(${1:"${2:fileName}", ${3:spreadsheetObj}})</string>
+      <key>name</key>
+      <string>spreadsheetRead</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>spreadsheetRead</string>
+      <key>uuid</key>
+      <string>5be376b2-daca-48cd-b5b6-ba753896d3bd</string>
+   </dict>
+</plist>

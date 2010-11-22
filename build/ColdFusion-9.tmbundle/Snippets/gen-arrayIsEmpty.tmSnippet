@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>arrayIsEmpty(${1:${2:array}})</string>
+      <key>name</key>
+      <string>arrayIsEmpty</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>arrayIsEmpty</string>
+      <key>uuid</key>
+      <string>d02bd41f-adf4-43a2-ac92-e1524c3e68ca</string>
+   </dict>
+</plist>

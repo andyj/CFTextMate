@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getHttpContext(${1:"${2:expression}"})</string>
+      <key>name</key>
+      <string>getHttpContext</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getHttpContext</string>
+      <key>uuid</key>
+      <string>a06ff0b5-69c9-425d-974b-861a9eaeb0b0</string>
+   </dict>
+</plist>

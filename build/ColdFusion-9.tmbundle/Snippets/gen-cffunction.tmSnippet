@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cffunction ${1:${2:name="$3" }${4:returntype="$5" }${6:roles="$7" }${8:access="$9" }${10:output="$11" }${12:displayname="$13" }${14:hint="$15" }${16:description="$17" }${18:returnformat="$19" }${20:securejson="$21" }${22:verifyclient="$23"}}&gt;
+	$0
+&lt;/cffunction&gt;</string>
+      <key>name</key>
+      <string>cffunction</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cffunction</string>
+      <key>uuid</key>
+      <string>f5219769-1ee5-4286-8895-2a3dbf7c0d93</string>
+   </dict>
+</plist>

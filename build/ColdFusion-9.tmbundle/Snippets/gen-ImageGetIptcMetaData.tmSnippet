@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>ImageGetIptcMetaData(${1:"${2:name}"})</string>
+      <key>name</key>
+      <string>ImageGetIptcMetaData</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ImageGetIptcMetaData</string>
+      <key>uuid</key>
+      <string>982b9372-9d2f-4e3e-9733-05b6fbcbf565</string>
+   </dict>
+</plist>

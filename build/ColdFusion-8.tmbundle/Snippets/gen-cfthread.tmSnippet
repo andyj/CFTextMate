@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfthread ${1:${2:action="$3" }${4:duration="$5" }${6:name="$7" }${8:priority="$9" }${10:timeout="$11"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfthread</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfthread</string>
+      <key>uuid</key>
+      <string>8351d87e-a74b-4aff-b729-0582ae717d42</string>
+   </dict>
+</plist>

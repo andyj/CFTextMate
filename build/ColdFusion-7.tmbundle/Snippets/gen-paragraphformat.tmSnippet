@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>paragraphformat(${1:"${2:String}"})</string>
+      <key>name</key>
+      <string>paragraphformat</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>paragraphformat</string>
+      <key>uuid</key>
+      <string>d9680542-8f35-4e04-af88-ef03a7e6916d</string>
+   </dict>
+</plist>

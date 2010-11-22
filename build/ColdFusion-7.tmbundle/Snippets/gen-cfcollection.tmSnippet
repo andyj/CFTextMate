@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfcollection ${1:${2:action="$3" }${4:collection="$5" }${6:path="$7" }${8:language="$9" }${10:name="$11" }${12:categories="$13"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfcollection</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfcollection</string>
+      <key>uuid</key>
+      <string>fbbc51a0-a194-43f1-af5c-8b7fabb54481</string>
+   </dict>
+</plist>

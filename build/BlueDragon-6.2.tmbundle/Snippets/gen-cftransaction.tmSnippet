@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cftransaction ${1:${2:action="$3" }${4:isolation="$5"}}&gt;
+	$0
+&lt;/cftransaction&gt;</string>
+      <key>name</key>
+      <string>cftransaction</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cftransaction</string>
+      <key>uuid</key>
+      <string>54b86241-2b29-48cf-8931-2d5844c749e7</string>
+   </dict>
+</plist>

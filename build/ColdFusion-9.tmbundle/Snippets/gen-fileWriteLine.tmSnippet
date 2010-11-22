@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>fileWriteLine(${1:${2:file}, ${3:content}})</string>
+      <key>name</key>
+      <string>fileWriteLine</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>fileWriteLine</string>
+      <key>uuid</key>
+      <string>59373720-dab6-43f1-8a61-f9f7e3010157</string>
+   </dict>
+</plist>

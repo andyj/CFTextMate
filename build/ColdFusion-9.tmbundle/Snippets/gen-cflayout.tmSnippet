@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cflayout ${1:${2:type="$3" }${4:align="$5" }${6:name="$7" }${8:padding="$9" }${10:style="$11" }${12:tabheight="$13" }${14:tabposition="$15" }${16:titlecollapse="$17" }${18:activeontop="$19" }${20:fillheight="$21" }${22:fitToWindow="$23" }${24:height="$25" }${26:width="$27" }${28:buttonStyle="$29"}}&gt;
+	$0
+&lt;/cflayout&gt;</string>
+      <key>name</key>
+      <string>cflayout</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cflayout</string>
+      <key>uuid</key>
+      <string>1943975e-6eab-4366-9b33-28513426df82</string>
+   </dict>
+</plist>

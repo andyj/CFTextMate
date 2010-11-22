@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>dollarformat(${1:${2:number}})</string>
+      <key>name</key>
+      <string>dollarformat</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>dollarformat</string>
+      <key>uuid</key>
+      <string>91556037-df80-4140-aece-ab3483f69f23</string>
+   </dict>
+</plist>

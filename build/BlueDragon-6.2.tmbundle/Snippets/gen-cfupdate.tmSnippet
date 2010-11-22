@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfupdate ${1:${2:datasource="$3" }${4:dbtype="$5" }${6:connectstring="$7" }${8:tablename="$9" }${10:tableowner="$11" }${12:tablequalifier="$13" }${14:username="$15" }${16:password="$17" }${18:formfields="$19"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfupdate</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfupdate</string>
+      <key>uuid</key>
+      <string>c968e209-dd14-487e-bfc2-e9f9d06e356f</string>
+   </dict>
+</plist>

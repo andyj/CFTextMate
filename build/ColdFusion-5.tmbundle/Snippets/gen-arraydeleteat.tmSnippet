@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>arraydeleteat(${1:${2:array}, ${3:position}})</string>
+      <key>name</key>
+      <string>arraydeleteat</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>arraydeleteat</string>
+      <key>uuid</key>
+      <string>febc1630-300b-4c9b-9e42-2afbd4d73e0e</string>
+   </dict>
+</plist>

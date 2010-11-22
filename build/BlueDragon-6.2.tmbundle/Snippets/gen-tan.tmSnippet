@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>tan(${1:${2:number}})</string>
+      <key>name</key>
+      <string>tan</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>tan</string>
+      <key>uuid</key>
+      <string>2d62505e-d5db-4c24-b18c-afa6d186460c</string>
+   </dict>
+</plist>

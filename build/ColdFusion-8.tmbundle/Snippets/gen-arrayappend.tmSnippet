@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>arrayappend(${1:${2:array}, ${3:value}})</string>
+      <key>name</key>
+      <string>arrayappend</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>arrayappend</string>
+      <key>uuid</key>
+      <string>1e0ef555-732d-4df4-9fb7-3e0ec46ce5c9</string>
+   </dict>
+</plist>

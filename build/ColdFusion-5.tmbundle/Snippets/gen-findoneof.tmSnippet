@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>findoneof(${1:"${2:set}", "${3:String}"${4:, [start]}})</string>
+      <key>name</key>
+      <string>findoneof</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>findoneof</string>
+      <key>uuid</key>
+      <string>8d6c64bd-a2df-4b10-ac66-7094978f5e63</string>
+   </dict>
+</plist>

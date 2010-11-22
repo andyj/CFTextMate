@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>duplicate(${1:${2:variable}})</string>
+      <key>name</key>
+      <string>duplicate</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>duplicate</string>
+      <key>uuid</key>
+      <string>05765d28-2f40-45b5-838b-625584f80b40</string>
+   </dict>
+</plist>

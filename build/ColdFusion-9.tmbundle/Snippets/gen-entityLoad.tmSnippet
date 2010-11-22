@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>entityload(${1:"${2:entityName}", "${3:filtercriteria}"${4:, [unique]}${5:, [sortorder]}${6:, [options]}})</string>
+      <key>name</key>
+      <string>entityload</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>entityload</string>
+      <key>uuid</key>
+      <string>31a54b49-37eb-413d-8871-2eb2d9944ef2</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>daysinyear(${1:${2:date}})</string>
+      <key>name</key>
+      <string>daysinyear</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>daysinyear</string>
+      <key>uuid</key>
+      <string>c8e1657f-e8c3-4705-a3cc-53be32f27c49</string>
+   </dict>
+</plist>

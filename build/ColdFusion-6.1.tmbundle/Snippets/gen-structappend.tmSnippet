@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>structappend(${1:${2:struct1}, ${3:struct2}${4:, [overwriteFlag]}})</string>
+      <key>name</key>
+      <string>structappend</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>structappend</string>
+      <key>uuid</key>
+      <string>f3197e36-e3b6-40b6-a201-85f6bbc48213</string>
+   </dict>
+</plist>

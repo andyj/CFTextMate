@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>lsparsenumber(${1:"${2:String}"})</string>
+      <key>name</key>
+      <string>lsparsenumber</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>lsparsenumber</string>
+      <key>uuid</key>
+      <string>75e27b05-6701-49da-b4b5-f4200d0b59dd</string>
+   </dict>
+</plist>

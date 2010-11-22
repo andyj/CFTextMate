@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfexchangecontact ${1:${2:action="$3" }${4:attachmentPath="$5" }${6:connection="$7" }${8:contact="$9" }${10:generateUniqueFilenames="$11" }${12:name="$13" }${14:result="$15" }${16:uid="$17"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfexchangecontact</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfexchangecontact</string>
+      <key>uuid</key>
+      <string>d009e1d1-962d-4657-8719-edb198a12378</string>
+   </dict>
+</plist>

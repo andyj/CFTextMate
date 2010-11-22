@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfelse ${1:} /&gt;$0</string>
+      <key>name</key>
+      <string>cfelse</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfelse</string>
+      <key>uuid</key>
+      <string>3c9f18ff-2c24-4e88-ad9d-c5a6ffd9f05c</string>
+   </dict>
+</plist>

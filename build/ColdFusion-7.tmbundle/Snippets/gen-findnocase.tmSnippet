@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>findnocase(${1:"${2:substring}", "${3:String}"${4:, [start]}})</string>
+      <key>name</key>
+      <string>findnocase</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>findnocase</string>
+      <key>uuid</key>
+      <string>fc5bfedc-7489-48c9-a31c-2f7d30d35706</string>
+   </dict>
+</plist>

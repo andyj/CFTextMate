@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>urlencodedformat(${1:"${2:String}"${3:, [charset]}})</string>
+      <key>name</key>
+      <string>urlencodedformat</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>urlencodedformat</string>
+      <key>uuid</key>
+      <string>428326c0-2ac7-4686-89bf-166c366eeb97</string>
+   </dict>
+</plist>

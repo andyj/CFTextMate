@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>writeLog(${1:"${2:text}"${3:, [log]}${4:, [file]}${5:, [type]}${6:, [application]}})</string>
+      <key>name</key>
+      <string>writeLog</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>writeLog</string>
+      <key>uuid</key>
+      <string>aa457d92-f6a9-4fa1-b4a6-5ba1d89ec337</string>
+   </dict>
+</plist>

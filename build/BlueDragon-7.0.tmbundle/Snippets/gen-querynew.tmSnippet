@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>querynew(${1:"${2:columnlist}"})</string>
+      <key>name</key>
+      <string>querynew</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>querynew</string>
+      <key>uuid</key>
+      <string>cdc20928-ec9d-44ff-aa06-792ffa402ac5</string>
+   </dict>
+</plist>

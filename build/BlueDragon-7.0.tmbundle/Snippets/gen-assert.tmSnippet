@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>assert(${1:"${2:expression}"})</string>
+      <key>name</key>
+      <string>assert</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>assert</string>
+      <key>uuid</key>
+      <string>c7d16a38-f221-4062-9cf5-2e5d88f9530b</string>
+   </dict>
+</plist>

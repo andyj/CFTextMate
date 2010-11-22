@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>arraysort(${1:${2:array}, "${3:sort_type}"${4:, [sort_order]}})</string>
+      <key>name</key>
+      <string>arraysort</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>arraysort</string>
+      <key>uuid</key>
+      <string>8d7af6ce-fb4d-491c-aa28-16d1d99a557d</string>
+   </dict>
+</plist>

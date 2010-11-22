@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>fileSetAttribute(${1:"${2:filePath}", "${3:attribute}"})</string>
+      <key>name</key>
+      <string>fileSetAttribute</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>fileSetAttribute</string>
+      <key>uuid</key>
+      <string>562ed41c-11e2-4f8d-b6b3-b089f0ed19bf</string>
+   </dict>
+</plist>

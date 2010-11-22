@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageCopy(${1:"${2:name}", ${3:x}, ${4:y}, ${5:width}, ${6:height}${7:, [dx]}${8:, [dy]}})</string>
+      <key>name</key>
+      <string>imageCopy</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageCopy</string>
+      <key>uuid</key>
+      <string>bc9a2303-75a1-4b6a-b7f2-d8ff6fb14cd1</string>
+   </dict>
+</plist>

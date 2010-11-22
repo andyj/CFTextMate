@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getPageContext(${1:})</string>
+      <key>name</key>
+      <string>getPageContext</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getPageContext</string>
+      <key>uuid</key>
+      <string>d76a6025-20fe-467d-a48a-6bf63426bbd8</string>
+   </dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfhttp ${1:${2:url="$3" }${4:port="$5" }${6:method="$7" }${8:proxyserver="$9" }${10:proxyport="$11" }${12:proxyuser="$13" }${14:proxypassword="$15" }${16:username="$17" }${18:password="$19" }${20:useragent="$21" }${22:charset="$23" }${24:resolveurl="$25" }${26:throwonerror="$27" }${28:redirect="$29" }${30:timeout="$31" }${32:getasbinary="$33" }${34:result="$35" }${36:delimiter="$37" }${38:name="$39" }${40:columns="$41" }${42:firstrowasheaders="$43" }${44:textqualifier="$45" }${46:file="$47" }${48:multipart="$49" }${50:clientcertpassword="$51" }${52:path="$53" }${54:clientcert="$55" }${56:compression="$57"}}&gt;
+	$0
+&lt;/cfhttp&gt;</string>
+      <key>name</key>
+      <string>cfhttp</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfhttp</string>
+      <key>uuid</key>
+      <string>e0964029-881b-40ca-bc76-ab4ee4290a4c</string>
+   </dict>
+</plist>

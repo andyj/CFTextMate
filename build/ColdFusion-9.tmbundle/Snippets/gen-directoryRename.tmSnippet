@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>directoryRename(${1:"${2:path}", "${3:newPath}"})</string>
+      <key>name</key>
+      <string>directoryRename</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>directoryRename</string>
+      <key>uuid</key>
+      <string>1244d8b1-42bf-422c-b010-3ef1ab85ba6b</string>
+   </dict>
+</plist>

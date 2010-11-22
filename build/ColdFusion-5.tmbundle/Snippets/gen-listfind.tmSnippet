@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>listfind(${1:"${2:list}", "${3:value}"${4:, [delimiters]}})</string>
+      <key>name</key>
+      <string>listfind</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>listfind</string>
+      <key>uuid</key>
+      <string>c5af1b09-3d53-4a9a-9c75-84ec7e00f57f</string>
+   </dict>
+</plist>

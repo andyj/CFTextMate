@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfsavecontent ${1:${2:variable="$3"}}&gt;
+	$0
+&lt;/cfsavecontent&gt;</string>
+      <key>name</key>
+      <string>cfsavecontent</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfsavecontent</string>
+      <key>uuid</key>
+      <string>b5d4e843-4d52-4e44-a48f-d2e3faf6dc3a</string>
+   </dict>
+</plist>

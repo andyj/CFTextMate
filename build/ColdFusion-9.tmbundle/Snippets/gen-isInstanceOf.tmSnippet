@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isInstanceOf(${1:${2:object}, "${3:typename}"})</string>
+      <key>name</key>
+      <string>isInstanceOf</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isInstanceOf</string>
+      <key>uuid</key>
+      <string>a50e7a7d-7f9f-49eb-b06f-9de2434a0249</string>
+   </dict>
+</plist>

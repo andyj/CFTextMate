@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfmessagebox ${1:${2:labelcancel="$3" }${4:callbackHandler="$5" }${6:labelok="$7" }${8:title="$9" }${10:type="$11" }${12:message="$13" }${14:labelno="$15" }${16:labelyes="$17" }${18:multiline="$19" }${20:name="$21" }${22:bodyStyle="$23" }${24:buttonType="$25" }${26:icon="$27" }${28:modal="$29" }${30:width="$31" }${32:x="$33" }${34:y="$35"}}&gt;
+	$0
+&lt;/cfmessagebox&gt;</string>
+      <key>name</key>
+      <string>cfmessagebox</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfmessagebox</string>
+      <key>uuid</key>
+      <string>082fe39d-a955-4aaa-a79d-2fe23030c102</string>
+   </dict>
+</plist>

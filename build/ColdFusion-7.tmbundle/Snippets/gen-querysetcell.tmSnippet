@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>querysetcell(${1:${2:query}, "${3:column}", ${4:value}${5:, [row]}})</string>
+      <key>name</key>
+      <string>querysetcell</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>querysetcell</string>
+      <key>uuid</key>
+      <string>3e864302-c405-408b-a08e-975550ee68f6</string>
+   </dict>
+</plist>

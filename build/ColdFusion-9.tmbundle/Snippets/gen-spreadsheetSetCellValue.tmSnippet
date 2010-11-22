@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>spreadsheetSetCellValue(${1:${2:spreadsheetObj}, "${3:value}", ${4:row}, ${5:column}})</string>
+      <key>name</key>
+      <string>spreadsheetSetCellValue</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>spreadsheetSetCellValue</string>
+      <key>uuid</key>
+      <string>dc4f4249-2227-4b75-882a-14a4bebd7ea6</string>
+   </dict>
+</plist>

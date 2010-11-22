@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>releaseCOMObject(${1:${2:objectName}})</string>
+      <key>name</key>
+      <string>releaseCOMObject</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>releaseCOMObject</string>
+      <key>uuid</key>
+      <string>a97a0d40-329f-4160-83ae-40e5ee328e16</string>
+   </dict>
+</plist>

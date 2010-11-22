@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>queryDeleteRow(${1:${2:query}${3:, [rowNumber]}})</string>
+      <key>name</key>
+      <string>queryDeleteRow</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>queryDeleteRow</string>
+      <key>uuid</key>
+      <string>1d8aa376-639e-42ef-ad51-a48d41ad3a7d</string>
+   </dict>
+</plist>

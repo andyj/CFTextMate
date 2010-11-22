@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfinput ${1:${2:name="$3" }${4:autosuggest="$5" }${6:autoSuggestBindDelay="$7" }${8:autoSuggestMinLength="$9" }${10:bindAttribute="$11" }${12:bindonload="$13" }${14:id="$15" }${16:type="$17" }${18:label="$19" }${20:style="$21" }${22:class="$23" }${24:required="$25" }${26:mask="$27" }${28:validate="$29" }${30:validateat="$31" }${32:message="$33" }${34:range="$35" }${36:maxlength="$37" }${38:pattern="$39" }${40:onvalidate="$41" }${42:onerror="$43" }${44:size="$45" }${46:value="$47" }${48:bind="$49" }${50:checked="$51" }${52:disabled="$53" }${54:src="$55" }${56:onkeyup="$57" }${58:onkeydown="$59" }${60:onmouseup="$61" }${62:onmousedown="$63" }${64:onchange="$65" }${66:onclick="$67" }${68:daynames="$69" }${70:firstdayofweek="$71" }${72:monthnames="$73" }${74:enabled="$75" }${76:visible="$77" }${78:tooltip="$79" }${80:width="$81" }${82:height="$83" }${84:passthrough="$85" }${86:delimiter="$87" }${88:maxresultsdisplayed="$89" }${90:onbinderror="$91" }${92:showautosuggestloadingicon="$93" }${94:sourcefortooltip="$95" }${96:typeahead="$97" }${98:matchContains="$99"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfinput</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfinput</string>
+      <key>uuid</key>
+      <string>9d5b93bf-fed5-4fd6-91d7-1a4122f50d12</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>sleep(${1:${2:Param1}})</string>
+      <key>name</key>
+      <string>sleep</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>sleep</string>
+      <key>uuid</key>
+      <string>96c842eb-309c-4849-a65f-500e52e2a15b</string>
+   </dict>
+</plist>

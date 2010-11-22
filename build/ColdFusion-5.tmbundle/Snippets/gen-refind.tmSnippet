@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>refind(${1:${2:reg_expression}, "${3:String}"${4:, [start]}${5:, [returnsubexpressions]}})</string>
+      <key>name</key>
+      <string>refind</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>refind</string>
+      <key>uuid</key>
+      <string>4f939494-c710-43ba-94a1-83b0f242f240</string>
+   </dict>
+</plist>

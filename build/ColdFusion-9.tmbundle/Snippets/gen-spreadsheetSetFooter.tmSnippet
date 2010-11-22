@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>spreadsheetSetFooter(${1:${2:spreadsheetObj}, "${3:leftFooter}", "${4:centerFooter}", "${5:rightFooter}"})</string>
+      <key>name</key>
+      <string>spreadsheetSetFooter</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>spreadsheetSetFooter</string>
+      <key>uuid</key>
+      <string>f46294f9-5214-43bd-bdb0-3cd54a577f83</string>
+   </dict>
+</plist>

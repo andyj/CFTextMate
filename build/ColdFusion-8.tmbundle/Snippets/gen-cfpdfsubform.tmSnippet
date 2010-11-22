@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfpdfsubform ${1:${2:index="$3" }${4:name="$5"}}&gt;
+	$0
+&lt;/cfpdfsubform&gt;</string>
+      <key>name</key>
+      <string>cfpdfsubform</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfpdfsubform</string>
+      <key>uuid</key>
+      <string>4aee4d76-4c03-484c-8c28-64e8661f6c6c</string>
+   </dict>
+</plist>

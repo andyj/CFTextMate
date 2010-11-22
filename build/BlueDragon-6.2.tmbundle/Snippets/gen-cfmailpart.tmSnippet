@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfmailpart ${1:${2:type="$3" }${4:wraptext="$5" }${6:charset="$7"}}&gt;
+	$0
+&lt;/cfmailpart&gt;</string>
+      <key>name</key>
+      <string>cfmailpart</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfmailpart</string>
+      <key>uuid</key>
+      <string>d40d7417-c2e7-45c8-8e6a-15d2ecb9e782</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>iswddx(${1:${2:value}})</string>
+      <key>name</key>
+      <string>iswddx</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>iswddx</string>
+      <key>uuid</key>
+      <string>6a639719-9c1d-4677-842a-710d349fb89c</string>
+   </dict>
+</plist>

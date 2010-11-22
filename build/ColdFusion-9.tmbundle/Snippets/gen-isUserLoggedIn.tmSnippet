@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isUserLoggedIn(${1:})</string>
+      <key>name</key>
+      <string>isUserLoggedIn</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isUserLoggedIn</string>
+      <key>uuid</key>
+      <string>ad3b741e-b702-42c3-8c2e-6d75c2db7e65</string>
+   </dict>
+</plist>

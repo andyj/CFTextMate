@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>formatbasen(${1:${2:number}, ${3:radix}})</string>
+      <key>name</key>
+      <string>formatbasen</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>formatbasen</string>
+      <key>uuid</key>
+      <string>4a6c6632-619d-4b8a-9d69-185e7100cbb4</string>
+   </dict>
+</plist>

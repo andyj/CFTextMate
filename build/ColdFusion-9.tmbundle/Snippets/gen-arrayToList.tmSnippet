@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>arrayToList(${1:${2:array}${3:, [delimiter]}})</string>
+      <key>name</key>
+      <string>arrayToList</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>arrayToList</string>
+      <key>uuid</key>
+      <string>9bbd06a2-4b4e-4f1a-a89e-df8ae05a9ffa</string>
+   </dict>
+</plist>

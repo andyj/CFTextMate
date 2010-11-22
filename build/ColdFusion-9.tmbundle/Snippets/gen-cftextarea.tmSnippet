@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cftextarea ${1:${2:name="$3" }${4:label="$5" }${6:style="$7" }${8:required="$9" }${10:html="$11" }${12:validate="$13" }${14:validateat="$15" }${16:message="$17" }${18:range="$19" }${20:maxlength="$21" }${22:pattern="$23" }${24:onvalidate="$25" }${26:onerror="$27" }${28:disabled="$29" }${30:value="$31" }${32:bind="$33" }${34:onkeyup="$35" }${36:onkeydown="$37" }${38:onmouseup="$39" }${40:onmousedown="$41" }${42:onchange="$43" }${44:onclick="$45" }${46:enabled="$47" }${48:visible="$49" }${50:tooltip="$51" }${52:height="$53" }${54:width="$55" }${56:basepath="$57" }${58:bindattribute="$59" }${60:bindonload="$61" }${62:fontformats="$63" }${64:fontnames="$65" }${66:fontsizes="$67" }${68:onbinderror="$69" }${70:richtext="$71" }${72:skin="$73" }${74:wrap="$75" }${76:sourcefortooltip="$77" }${78:stylesxml="$79" }${80:templatesxml="$81" }${82:toolbar="$83" }${84:toolbaronfocus="$85" }${86:secureUpload="$87"}}&gt;
+	$0
+&lt;/cftextarea&gt;</string>
+      <key>name</key>
+      <string>cftextarea</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cftextarea</string>
+      <key>uuid</key>
+      <string>92ed3544-ecce-4e9b-8c3f-01f2f9a935b2</string>
+   </dict>
+</plist>

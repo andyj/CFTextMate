@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>spreadsheetSetCellComment(${1:${2:spreadsheetObj}, "${3:comment}", ${4:row}, ${5:column}})</string>
+      <key>name</key>
+      <string>spreadsheetSetCellComment</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>spreadsheetSetCellComment</string>
+      <key>uuid</key>
+      <string>21836f03-6298-4d4f-86b9-99ebe1becc61</string>
+   </dict>
+</plist>

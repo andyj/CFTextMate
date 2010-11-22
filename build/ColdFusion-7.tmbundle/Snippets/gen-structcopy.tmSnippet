@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>structcopy(${1:${2:structure}})</string>
+      <key>name</key>
+      <string>structcopy</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>structcopy</string>
+      <key>uuid</key>
+      <string>7e81529c-9174-48ff-b3be-073c7d01ee0e</string>
+   </dict>
+</plist>

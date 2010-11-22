@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>queryaddcolumn(${1:${2:query}, "${3:column_name}"${4:, [datatype]}, ${5:array_name}})</string>
+      <key>name</key>
+      <string>queryaddcolumn</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>queryaddcolumn</string>
+      <key>uuid</key>
+      <string>f522104d-78b5-44f2-91e9-01a883d723fc</string>
+   </dict>
+</plist>

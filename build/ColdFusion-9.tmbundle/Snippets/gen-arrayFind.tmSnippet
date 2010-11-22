@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>arrayFind(${1:${2:array}, ${3:object}})</string>
+      <key>name</key>
+      <string>arrayFind</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>arrayFind</string>
+      <key>uuid</key>
+      <string>c851bd46-2237-454b-bd7f-525f640df170</string>
+   </dict>
+</plist>

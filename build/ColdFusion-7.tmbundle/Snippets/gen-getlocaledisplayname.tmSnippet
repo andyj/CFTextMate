@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getlocaledisplayname(${1:})</string>
+      <key>name</key>
+      <string>getlocaledisplayname</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getlocaledisplayname</string>
+      <key>uuid</key>
+      <string>55cc55df-87c4-4306-ac8e-010d3c018967</string>
+   </dict>
+</plist>

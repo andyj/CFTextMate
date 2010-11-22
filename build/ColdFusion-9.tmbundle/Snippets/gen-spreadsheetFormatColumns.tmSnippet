@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>spreadsheetFormatColumns(${1:${2:spreadsheetObj}, "${3:format}", "${4:columns}"})</string>
+      <key>name</key>
+      <string>spreadsheetFormatColumns</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>spreadsheetFormatColumns</string>
+      <key>uuid</key>
+      <string>9b420c25-7160-4c9c-b36c-be2ad23e76ed</string>
+   </dict>
+</plist>

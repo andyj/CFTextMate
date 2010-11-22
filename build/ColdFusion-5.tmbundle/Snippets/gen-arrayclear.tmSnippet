@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>arrayclear(${1:${2:array}})</string>
+      <key>name</key>
+      <string>arrayclear</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>arrayclear</string>
+      <key>uuid</key>
+      <string>127610b2-d61f-423a-8452-fec62456d969</string>
+   </dict>
+</plist>

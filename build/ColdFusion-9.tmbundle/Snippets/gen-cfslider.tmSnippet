@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfslider ${1:${2:name="$3" }${4:label="$5" }${6:range="$7" }${8:scale="$9" }${10:value="$11" }${12:onvalidate="$13" }${14:message="$15" }${16:height="$17" }${18:width="$19" }${20:vspace="$21" }${22:hspace="$23" }${24:align="$25" }${26:lookandfeel="$27" }${28:vertical="$29" }${30:bgcolor="$31" }${32:textcolor="$33" }${34:font="$35" }${36:fontsize="$37" }${38:italic="$39" }${40:bold="$41" }${42:notsupported="$43" }${44:clickToChange="$45" }${46:max="$47" }${48:onChange="$49" }${50:min="$51" }${52:onDrag="$53" }${54:onError="$55" }${56:increment="$57" }${58:tip="$59" }${60:format="$61"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfslider</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfslider</string>
+      <key>uuid</key>
+      <string>afdcbc67-796a-4f73-a27b-2a330dbbcca3</string>
+   </dict>
+</plist>

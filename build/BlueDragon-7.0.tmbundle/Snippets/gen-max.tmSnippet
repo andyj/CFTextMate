@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>max(${1:${2:number1}, ${3:number2}})</string>
+      <key>name</key>
+      <string>max</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>max</string>
+      <key>uuid</key>
+      <string>1d488d1e-828d-46fd-ad9a-14640df31700</string>
+   </dict>
+</plist>

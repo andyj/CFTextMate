@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>encrypt(${1:"${2:String}", "${3:seed}"})</string>
+      <key>name</key>
+      <string>encrypt</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>encrypt</string>
+      <key>uuid</key>
+      <string>3ae8e1e6-8ff0-418e-9e82-5a655cf63e6e</string>
+   </dict>
+</plist>

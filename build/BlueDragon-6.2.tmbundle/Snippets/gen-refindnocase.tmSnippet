@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>refindnocase(${1:${2:reg_expression}, "${3:String}"${4:, [start]}${5:, [returnsubexpressions]}})</string>
+      <key>name</key>
+      <string>refindnocase</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>refindnocase</string>
+      <key>uuid</key>
+      <string>ddfc318c-5640-4819-aa90-92fada9199cf</string>
+   </dict>
+</plist>

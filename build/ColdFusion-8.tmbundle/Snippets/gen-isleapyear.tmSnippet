@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isleapyear(${1:${2:year}})</string>
+      <key>name</key>
+      <string>isleapyear</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isleapyear</string>
+      <key>uuid</key>
+      <string>a18c818f-d2b6-4bfb-9070-9ae920da1acf</string>
+   </dict>
+</plist>

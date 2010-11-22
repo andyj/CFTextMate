@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfsilent ${1:}&gt;
+	$0
+&lt;/cfsilent&gt;</string>
+      <key>name</key>
+      <string>cfsilent</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfsilent</string>
+      <key>uuid</key>
+      <string>d29b682b-c41a-47cb-a36b-6d1d0fd09427</string>
+   </dict>
+</plist>

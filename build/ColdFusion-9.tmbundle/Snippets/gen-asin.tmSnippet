@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>asin(${1:${2:number}})</string>
+      <key>name</key>
+      <string>asin</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>asin</string>
+      <key>uuid</key>
+      <string>b23cac73-e471-4589-aa65-c495710600cd</string>
+   </dict>
+</plist>

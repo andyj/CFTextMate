@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>deleteclientvariable(${1:"${2:name}"})</string>
+      <key>name</key>
+      <string>deleteclientvariable</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>deleteclientvariable</string>
+      <key>uuid</key>
+      <string>dbb4ed83-8ab0-4fed-9906-30112bcb21d6</string>
+   </dict>
+</plist>

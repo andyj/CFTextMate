@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>decryptBinary(${1:"${2:bytes}", "${3:key}"${4:, [algorithm]}${5:, [ivorsalt]}${6:, [iterations]}})</string>
+      <key>name</key>
+      <string>decryptBinary</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>decryptBinary</string>
+      <key>uuid</key>
+      <string>ae20aff8-83e7-4ece-b0f1-ae2b788500dc</string>
+   </dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfdocumentsection ${1:${2:margintop="$3" }${4:marginbottom="$5" }${6:marginleft="$7" }${8:marginright="$9" }${10:authpassword="$11" }${12:authuser="$13" }${14:mimetype="$15" }${16:name="$17" }${18:src="$19" }${20:srcfile="$21" }${22:useragent="$23"}}&gt;
+	$0
+&lt;/cfdocumentsection&gt;</string>
+      <key>name</key>
+      <string>cfdocumentsection</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfdocumentsection</string>
+      <key>uuid</key>
+      <string>4c152002-0928-4f83-9742-ac0aa16c3202</string>
+   </dict>
+</plist>

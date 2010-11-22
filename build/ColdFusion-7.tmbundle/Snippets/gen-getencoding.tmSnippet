@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getencoding(${1:"${2:scope_name}"})</string>
+      <key>name</key>
+      <string>getencoding</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getencoding</string>
+      <key>uuid</key>
+      <string>df7806cb-e0c5-4473-88d7-a15770794fba</string>
+   </dict>
+</plist>

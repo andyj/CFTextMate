@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>parseDateTime(${1:"${2:dt_string}"${3:, [pop_conversion]}})</string>
+      <key>name</key>
+      <string>parseDateTime</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>parseDateTime</string>
+      <key>uuid</key>
+      <string>41dfe9dd-ddbb-4e41-bbf1-cda8434db3b8</string>
+   </dict>
+</plist>

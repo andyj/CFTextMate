@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>queryAddRow(${1:${2:query}${3:, [number]}})</string>
+      <key>name</key>
+      <string>queryAddRow</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>queryAddRow</string>
+      <key>uuid</key>
+      <string>2c8ac36a-26ca-4768-8725-78f0f76c24aa</string>
+   </dict>
+</plist>

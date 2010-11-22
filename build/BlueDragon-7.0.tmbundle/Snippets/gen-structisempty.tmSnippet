@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>structisempty(${1:${2:structure}})</string>
+      <key>name</key>
+      <string>structisempty</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>structisempty</string>
+      <key>uuid</key>
+      <string>67a9737a-3eb4-4561-baf1-7eee73d81411</string>
+   </dict>
+</plist>

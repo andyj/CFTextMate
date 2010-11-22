@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>writeDump(${1:${2:var}${3:, [expand]}${4:, [format]}${5:, [hide]}${6:, [keys]}${7:, [label]}${8:, [metainfo]}${9:, [output]}${10:, [show]}${11:, [showUDfs]}${12:, [top]}})</string>
+      <key>name</key>
+      <string>writeDump</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>writeDump</string>
+      <key>uuid</key>
+      <string>23ffc864-8dcb-4194-b3cf-727715fe1fd3</string>
+   </dict>
+</plist>

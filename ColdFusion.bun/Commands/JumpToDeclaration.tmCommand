@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	
+	<key>bundleUUID</key>
+	<string>@BUNDLE_UUID@</string>
+	
+	<key>command</key>
+	<string><![CDATA[#!/bin/sh
+		FUNC="${TM_CURRENT_WORD}"
+		DIR="${TM_PROJECT_DIRECTORY}"
+		OUTPUT=''
+
+		FILES=(`find "${DIR}" -type f | egrep '\.(cfm|cfml|cfc)$'`)
+
+		# Look for a function declaration within a files contents.
+		# <file> <function>
+		function lookup_function {
+			local line=`nl -b a "${1}" | grep "<cffunction.*name=[\"\']${2}[\"\']" | awk '{print $1}'`
+			if [[ "$line" -gt 0 ]]; then
+				mate "${1}" -l "$line"
+				exit 0
+			fi
+		}
+
+		# Iterate files
+		for (( i=0; i < ${#FILES[*]}; i++)); do
+			file="${FILES[${i}]}"
+			lookup_function "${file}" "${FUNC}"
+		done
+
+		# Nothing found
+		echo 'Function '${FUNC}' was not found within the current project.'
+	]]>
+	</string>
+	
+	<key>fallbackInput</key>
+	<string>line</string>
+	
+	<key>input</key>
+	<string>selection</string>
+	
+	<key>keyEquivalent</key>
+	<string>^~@j</string>
+	
+	<key>name</key>
+	<string>Jump To Function Declaration</string>
+	
+	<key>output</key>
+	<string>showAsTooltip</string>
+	
+	<key>scope</key>
+	<string>text.html invalid.illegal.incomplete.cfml, text.html.cfm</string>
+	
+	<key>uuid</key>
+	<string>54C16A2E-3B74-41AC-BEB1-352F9E42B7EE</string>
+</dict>
+</plist>

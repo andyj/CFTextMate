@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageDrawRoundRect(${1:"${2:name}", ${3:x}, ${4:y}, ${5:width}, ${6:height}, ${7:arcwidth}, ${8:archeight}${9:, [filled]}})</string>
+      <key>name</key>
+      <string>imageDrawRoundRect</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageDrawRoundRect</string>
+      <key>uuid</key>
+      <string>60666316-ab4b-4ff9-bd09-630ec8e95e63</string>
+   </dict>
+</plist>

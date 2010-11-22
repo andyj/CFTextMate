@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>transactionRollback(${1:${2:[savepoint]}})</string>
+      <key>name</key>
+      <string>transactionRollback</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>transactionRollback</string>
+      <key>uuid</key>
+      <string>9e55698b-34d2-4090-91d1-46ab8950528e</string>
+   </dict>
+</plist>

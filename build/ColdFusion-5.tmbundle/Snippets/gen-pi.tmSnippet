@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>pi(${1:})</string>
+      <key>name</key>
+      <string>pi</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>pi</string>
+      <key>uuid</key>
+      <string>f956c7eb-cc7c-417a-a686-88fc7d22e156</string>
+   </dict>
+</plist>

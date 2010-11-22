@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>structfindvalue(${1:${2:top}, "${3:value}"${4:, [scop]}})</string>
+      <key>name</key>
+      <string>structfindvalue</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>structfindvalue</string>
+      <key>uuid</key>
+      <string>ab148233-51ab-44a7-a19f-e417c792c59a</string>
+   </dict>
+</plist>

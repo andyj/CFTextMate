@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageShear(${1:"${2:name}", ${3:shear}${4:, [direction]}${5:, [interpolation]}})</string>
+      <key>name</key>
+      <string>imageShear</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageShear</string>
+      <key>uuid</key>
+      <string>6a929646-1cea-45b3-ab95-87fb7ca2688b</string>
+   </dict>
+</plist>

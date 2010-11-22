@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isk2serveronline(${1:})</string>
+      <key>name</key>
+      <string>isk2serveronline</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isk2serveronline</string>
+      <key>uuid</key>
+      <string>93796fd7-8600-4c4c-8f6b-6333ac45fd4b</string>
+   </dict>
+</plist>

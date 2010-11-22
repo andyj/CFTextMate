@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfmediaplayer ${1:${2:width="$3" }${4:height="$5" }${6:fullscreencontrol="$7" }${8:hideBorder="$9" }${10:controlbar="$11" }${12:align="$13" }${14:onload="$15" }${16:bgcolor="$17" }${18:source="$19" }${20:name="$21" }${22:quality="$23" }${24:hideTitle="$25" }${26:oncomplete="$27" }${28:onstart="$29" }${30:wmode="$31" }${32:autoPlay="$33" }${34:style="$35"}}&gt;
+	$0
+&lt;/cfmediaplayer&gt;</string>
+      <key>name</key>
+      <string>cfmediaplayer</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfmediaplayer</string>
+      <key>uuid</key>
+      <string>ad5cd977-b25b-4c9c-b5cb-d2ca100d0bce</string>
+   </dict>
+</plist>

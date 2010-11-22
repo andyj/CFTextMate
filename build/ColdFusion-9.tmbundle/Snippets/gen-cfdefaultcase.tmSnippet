@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfdefaultcase ${1:}&gt;
+	$0
+&lt;/cfdefaultcase&gt;</string>
+      <key>name</key>
+      <string>cfdefaultcase</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfdefaultcase</string>
+      <key>uuid</key>
+      <string>379eaa97-37f4-4f4c-8796-02c1ec8b77a2</string>
+   </dict>
+</plist>

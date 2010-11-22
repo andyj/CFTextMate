@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>structGet(${1:"${2:pathdesired}"})</string>
+      <key>name</key>
+      <string>structGet</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>structGet</string>
+      <key>uuid</key>
+      <string>49f4767e-e8e0-4b55-a4b7-f901d0b75f7f</string>
+   </dict>
+</plist>

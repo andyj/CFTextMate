@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>fileexists(${1:"${2:path}"})</string>
+      <key>name</key>
+      <string>fileexists</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>fileexists</string>
+      <key>uuid</key>
+      <string>b2f29e5f-f26e-4e4d-b718-311707a52caa</string>
+   </dict>
+</plist>

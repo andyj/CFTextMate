@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfsearch ${1:${2:name="$3" }${4:collection="$5" }${6:category="$7" }${8:categorytree="$9" }${10:status="$11" }${12:type="$13" }${14:criteria="$15" }${16:maxrows="$17" }${18:startrow="$19" }${20:suggestions="$21" }${22:contextPassages="$23" }${24:contextBytes="$25" }${26:contextHighlightBegin="$27" }${28:contextHighlightEnd="$29" }${30:previousCriteria="$31" }${32:language="$33"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfsearch</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfsearch</string>
+      <key>uuid</key>
+      <string>acbd406f-5bb1-4e44-94f5-c60971f3059f</string>
+   </dict>
+</plist>

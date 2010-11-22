@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cftooltip ${1:${2:preventoverlap="$3" }${4:autodismissdelay="$5" }${6:hidedelay="$7" }${8:showdelay="$9" }${10:sourcefortooltip="$11" }${12:tooltip="$13"}}&gt;
+	$0
+&lt;/cftooltip&gt;</string>
+      <key>name</key>
+      <string>cftooltip</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cftooltip</string>
+      <key>uuid</key>
+      <string>5bf33a6a-ae3d-442c-86e1-16addfce9d8d</string>
+   </dict>
+</plist>

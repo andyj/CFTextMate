@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>cacheGet(${1:"${2:id}"})</string>
+      <key>name</key>
+      <string>cacheGet</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cacheGet</string>
+      <key>uuid</key>
+      <string>c7a22c07-871d-4e93-8f42-ab98e90bee59</string>
+   </dict>
+</plist>

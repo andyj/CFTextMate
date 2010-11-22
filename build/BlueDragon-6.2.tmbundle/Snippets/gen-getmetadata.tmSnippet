@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getmetadata(${1:${2:Object}})</string>
+      <key>name</key>
+      <string>getmetadata</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getmetadata</string>
+      <key>uuid</key>
+      <string>54617fd4-28b7-433c-9078-7c87248fa536</string>
+   </dict>
+</plist>

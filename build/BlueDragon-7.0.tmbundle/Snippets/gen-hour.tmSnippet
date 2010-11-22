@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>hour(${1:${2:date}})</string>
+      <key>name</key>
+      <string>hour</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>hour</string>
+      <key>uuid</key>
+      <string>a5e15d2a-b063-44fe-a56e-5b09c850ea61</string>
+   </dict>
+</plist>

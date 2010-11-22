@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfexchangecalendar ${1:${2:action="$3" }${4:attachmentpath="$5" }${6:connection="$7" }${8:event="$9" }${10:generateUniquefilenames="$11" }${12:message="$13" }${14:name="$15" }${16:notify="$17" }${18:responseType="$19" }${20:result="$21" }${22:uid="$23"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfexchangecalendar</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfexchangecalendar</string>
+      <key>uuid</key>
+      <string>4d104703-c64c-4f2e-b6b2-4671853d9b18</string>
+   </dict>
+</plist>

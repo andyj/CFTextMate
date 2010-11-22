@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>rjustify(${1:"${2:String}", ${3:length}})</string>
+      <key>name</key>
+      <string>rjustify</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>rjustify</string>
+      <key>uuid</key>
+      <string>ac0e4ccd-c881-4d6f-a2da-de665c2129d9</string>
+   </dict>
+</plist>

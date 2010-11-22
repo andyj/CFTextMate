@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cflock ${1:${2:timeout="$3" }${4:scope="$5" }${6:name="$7" }${8:throwontimeout="$9" }${10:type="$11"}}&gt;
+	$0
+&lt;/cflock&gt;</string>
+      <key>name</key>
+      <string>cflock</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cflock</string>
+      <key>uuid</key>
+      <string>c1fbc4a2-fdd6-4554-813c-902c257a99d3</string>
+   </dict>
+</plist>

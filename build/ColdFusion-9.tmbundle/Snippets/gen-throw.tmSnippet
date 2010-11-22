@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>throw(${1:${2:[type]}${3:, [message]}${4:, [detail]}${5:, [errorcode]}${6:, [extendedinfo]}${7:, [object]}})</string>
+      <key>name</key>
+      <string>throw</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>throw</string>
+      <key>uuid</key>
+      <string>c2baa443-49a6-4b23-92d6-b8fc5753fe09</string>
+   </dict>
+</plist>

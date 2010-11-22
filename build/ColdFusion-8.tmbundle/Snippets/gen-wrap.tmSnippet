@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>wrap(${1:"${2:String}", ${3:limit}${4:, [strip]}})</string>
+      <key>name</key>
+      <string>wrap</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>wrap</string>
+      <key>uuid</key>
+      <string>2bde2843-acb6-4ba4-9655-dd20908d5bfc</string>
+   </dict>
+</plist>

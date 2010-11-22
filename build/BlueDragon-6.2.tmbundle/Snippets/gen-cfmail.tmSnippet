@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfmail ${1:${2:to="$3" }${4:from="$5" }${6:imapconnection="$7" }${8:cc="$9" }${10:bcc="$11" }${12:subject="$13" }${14:replyto="$15" }${16:failto="$17" }${18:username="$19" }${20:password="$21" }${22:wraptext="$23" }${24:charset="$25" }${26:type="$27" }${28:mimeattach="$29" }${30:query="$31" }${32:group="$33" }${34:groupcasesensitive="$35" }${36:startrow="$37" }${38:maxrows="$39" }${40:server="$41" }${42:port="$43" }${44:mailerid="$45" }${46:timeout="$47" }${48:debug="$49"}}&gt;
+	$0
+&lt;/cfmail&gt;</string>
+      <key>name</key>
+      <string>cfmail</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfmail</string>
+      <key>uuid</key>
+      <string>48a3bac8-ba7e-47e5-a055-3c67cbfe8b75</string>
+   </dict>
+</plist>

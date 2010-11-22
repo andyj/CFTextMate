@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>insert(${1:"${2:substring}", "${3:String}", ${4:position}})</string>
+      <key>name</key>
+      <string>insert</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>insert</string>
+      <key>uuid</key>
+      <string>349d5c90-68ad-44bc-9577-9364cbca6579</string>
+   </dict>
+</plist>

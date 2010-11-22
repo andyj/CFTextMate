@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>listqualify(${1:"${2:list}", "${3:qualifier}"${4:, [delimiters]}${5:, [elements]}})</string>
+      <key>name</key>
+      <string>listqualify</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>listqualify</string>
+      <key>uuid</key>
+      <string>9e249a1b-0a56-4c1a-8518-091732004bd1</string>
+   </dict>
+</plist>

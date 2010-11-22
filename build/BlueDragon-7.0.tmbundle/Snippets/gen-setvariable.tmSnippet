@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>setvariable(${1:"${2:name}", "${3:value}"})</string>
+      <key>name</key>
+      <string>setvariable</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>setvariable</string>
+      <key>uuid</key>
+      <string>0f8795d5-dd0e-42cc-9ed2-70b3c4e19145</string>
+   </dict>
+</plist>

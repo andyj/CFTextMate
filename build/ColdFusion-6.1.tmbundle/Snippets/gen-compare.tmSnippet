@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>compare(${1:"${2:string1}", "${3:string2}"})</string>
+      <key>name</key>
+      <string>compare</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>compare</string>
+      <key>uuid</key>
+      <string>6f6c7e55-3ec1-4bc6-ace3-378c708250bc</string>
+   </dict>
+</plist>

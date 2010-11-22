@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfmailparam ${1:${2:file="$3" }${4:type="$5" }${6:name="$7" }${8:value="$9" }${10:contentID="$11" }${12:disposition="$13" }${14:content="$15" }${16:remove="$17"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfmailparam</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfmailparam</string>
+      <key>uuid</key>
+      <string>e97a9183-e248-4c32-9cfe-7aea6d48760b</string>
+   </dict>
+</plist>

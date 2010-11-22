@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfzip ${1:${2:action="$3" }${4:charset="$5" }${6:destination="$7" }${8:entrypath="$9" }${10:file="$11" }${12:filter="$13" }${14:name="$15" }${16:overwrite="$17" }${18:prefix="$19" }${20:recurse="$21" }${22:showDirectory="$23" }${24:source="$25" }${26:storePath="$27" }${28:variable="$29"}}&gt;
+	$0
+&lt;/cfzip&gt;</string>
+      <key>name</key>
+      <string>cfzip</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfzip</string>
+      <key>uuid</key>
+      <string>afd3d810-064a-4b87-9a80-1256a8408461</string>
+   </dict>
+</plist>

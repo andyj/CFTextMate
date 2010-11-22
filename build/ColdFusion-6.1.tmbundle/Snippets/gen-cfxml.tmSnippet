@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfxml ${1:${2:variable="$3" }${4:casesensitive="$5"}}&gt;
+	$0
+&lt;/cfxml&gt;</string>
+      <key>name</key>
+      <string>cfxml</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfxml</string>
+      <key>uuid</key>
+      <string>56d1a83f-e25e-4bb4-b164-735f6eb6d7c9</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>ormClearSession(${1:})</string>
+      <key>name</key>
+      <string>ormClearSession</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ormClearSession</string>
+      <key>uuid</key>
+      <string>8693345c-c9b8-42d8-9515-27cb655eca8c</string>
+   </dict>
+</plist>

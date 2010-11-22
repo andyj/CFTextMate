@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getcontextroot(${1:})</string>
+      <key>name</key>
+      <string>getcontextroot</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getcontextroot</string>
+      <key>uuid</key>
+      <string>4f822620-59fa-4375-99cb-1771a9e9284f</string>
+   </dict>
+</plist>

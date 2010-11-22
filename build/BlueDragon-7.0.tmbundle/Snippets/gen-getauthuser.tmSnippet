@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getauthuser(${1:})</string>
+      <key>name</key>
+      <string>getauthuser</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getauthuser</string>
+      <key>uuid</key>
+      <string>2a728238-f38d-4ac4-b6f8-d8c355d77d6a</string>
+   </dict>
+</plist>

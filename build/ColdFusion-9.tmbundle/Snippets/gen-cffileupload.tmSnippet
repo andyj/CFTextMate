@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cffileupload ${1:${2:url="$3" }${4:width="$5" }${6:title="$7" }${8:extensionfilter="$9" }${10:uploadbuttonlabel="$11" }${12:progressbar="$13" }${14:height="$15" }${16:maxUploadSize="$17" }${18:maxFileSelect="$19" }${20:style="$21" }${22:bgcolor="$23" }${24:addButtonLabel="$25" }${26:name="$27" }${28:oncomplete="$29" }${30:onerror="$31" }${32:clearButtonLabel="$33" }${34:deleteButtonLabel="$35" }${36:align="$37" }${38:wmode="$39" }${40:stopOnError="$41" }${42:hideUploadButton="$43" }${44:onUploadComplete="$45"}}&gt;
+	$0
+&lt;/cffileupload&gt;</string>
+      <key>name</key>
+      <string>cffileupload</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cffileupload</string>
+      <key>uuid</key>
+      <string>7ff2b188-114b-4d18-9e94-3441614a417b</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>ormGetSessionFactory(${1:})</string>
+      <key>name</key>
+      <string>ormGetSessionFactory</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ormGetSessionFactory</string>
+      <key>uuid</key>
+      <string>533923ec-30cf-439d-a282-3736c8bfada1</string>
+   </dict>
+</plist>

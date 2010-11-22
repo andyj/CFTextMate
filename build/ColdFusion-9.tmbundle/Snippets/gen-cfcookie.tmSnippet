@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfcookie ${1:${2:name="$3" }${4:value="$5" }${6:expires="$7" }${8:secure="$9" }${10:path="$11" }${12:domain="$13" }${14:httpOnly="$15"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfcookie</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfcookie</string>
+      <key>uuid</key>
+      <string>58d4a1a2-c7bc-489d-be44-3506a13523a0</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfsearch ${1:${2:name="$3" }${4:collection="$5" }${6:type="$7" }${8:criteria="$9" }${10:maxrows="$11" }${12:startrow="$13" }${14:language="$15"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfsearch</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfsearch</string>
+      <key>uuid</key>
+      <string>809e31df-04d3-4374-b4fa-4f24178368b6</string>
+   </dict>
+</plist>

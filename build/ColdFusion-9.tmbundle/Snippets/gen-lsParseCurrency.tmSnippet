@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>lsParseCurrency(${1:"${2:String}"})</string>
+      <key>name</key>
+      <string>lsParseCurrency</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>lsParseCurrency</string>
+      <key>uuid</key>
+      <string>7cbbabcd-dc0d-4361-9fc3-78958a6d8803</string>
+   </dict>
+</plist>

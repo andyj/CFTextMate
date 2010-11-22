@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>decrypt(${1:"${2:encrypted_string}", "${3:key}"${4:, [algorithm]}${5:, [encoding]}${6:, [ivorsalt]}${7:, [iterations]}})</string>
+      <key>name</key>
+      <string>decrypt</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>decrypt</string>
+      <key>uuid</key>
+      <string>5cb579b2-4fb6-47f5-8fef-029717a073ff</string>
+   </dict>
+</plist>

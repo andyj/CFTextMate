@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cflogout ${1:} /&gt;$0</string>
+      <key>name</key>
+      <string>cflogout</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cflogout</string>
+      <key>uuid</key>
+      <string>e7a75ad6-d5a1-4a89-a194-d37484c33ca9</string>
+   </dict>
+</plist>

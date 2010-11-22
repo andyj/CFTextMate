@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>hash(${1:"${2:String}"${3:, [algorithm]}${4:, [encoding]}})</string>
+      <key>name</key>
+      <string>hash</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>hash</string>
+      <key>uuid</key>
+      <string>a1ac5662-261f-44e4-b147-2ac3dc93c201</string>
+   </dict>
+</plist>

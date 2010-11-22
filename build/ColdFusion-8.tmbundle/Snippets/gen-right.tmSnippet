@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>right(${1:"${2:String}", ${3:count}})</string>
+      <key>name</key>
+      <string>right</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>right</string>
+      <key>uuid</key>
+      <string>ca5f6786-0edc-4aa3-b2ed-bc79d558b8fb</string>
+   </dict>
+</plist>

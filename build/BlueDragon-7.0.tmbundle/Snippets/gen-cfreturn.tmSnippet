@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfreturn ${1:} /&gt;$0</string>
+      <key>name</key>
+      <string>cfreturn</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfreturn</string>
+      <key>uuid</key>
+      <string>2c877e91-9b3e-4159-85d9-8d83f893a5ee</string>
+   </dict>
+</plist>

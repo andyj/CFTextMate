@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>spreadsheetSetHeader(${1:${2:spreadsheetObj}, "${3:leftHeader}", "${4:centerHeader}", "${5:rightHeader}"})</string>
+      <key>name</key>
+      <string>spreadsheetSetHeader</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>spreadsheetSetHeader</string>
+      <key>uuid</key>
+      <string>7191ddb5-cc54-41b3-9524-ad2246fc51ab</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>gethttprequestdata(${1:})</string>
+      <key>name</key>
+      <string>gethttprequestdata</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>gethttprequestdata</string>
+      <key>uuid</key>
+      <string>f8932b52-bc70-45b4-ba85-7583fba6956c</string>
+   </dict>
+</plist>

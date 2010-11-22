@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>bitMaskRead(${1:${2:number}, ${3:start}, ${4:length}})</string>
+      <key>name</key>
+      <string>bitMaskRead</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>bitMaskRead</string>
+      <key>uuid</key>
+      <string>cd604c80-65c7-4cd2-9f8d-4948a14c1541</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cftreeitem ${1:${2:value="$3" }${4:display="$5" }${6:parent="$7" }${8:href="$9" }${10:target="$11" }${12:query="$13" }${14:queryAsRoot="$15" }${16:expand="$17"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cftreeitem</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cftreeitem</string>
+      <key>uuid</key>
+      <string>23f0ee09-fa94-4a2f-9a9c-09a3db1957a5</string>
+   </dict>
+</plist>

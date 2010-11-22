@@ -1,0 +1,118 @@
+<project name="ColdFusion Textmate Bundle" default="usage">
+	<!-- The xslt process needs an XSLT 2.0 processor, so I am using Saxon-->
+	<property name="saxon.path" value="/Users/andyjarrett/Documents/lib/saxonhe9-3-0-1j/saxon9.jar"/>
+	
+	<!-- Probably wont need to change this unless you are going to try to use
+		a different cfeclipse dictionary file. -->
+	<property name="dictionary.file" value="Resources/cf9.xml" />
+	<property name="output.name" value="ColdFusion" />
+	<property name="output.bundle" value="${output.name}.tmbundle" />
+	
+	<property name="bundle.uuid" value="1A09BE0B-E81A-4CB7-AF69-AFC845162D1F" />
+	<property name="snytax.uuid" value="97CAD6F7-0807-4EB4-876E-DA9E9C1CEC14" />
+	<property name="cmddoc.uuid" value="9902B0A3-0523-4190-B541-374AC09CC72F" />
+	<property name="tagcomplete.uuid" value="A51C20E9-244A-4E9B-8150-B3D55F6CA839" />
+	<property name="attcomplete.uuid" value="C6F3F140-863E-442D-8ECA-830C4002884E" />
+	
+	<property name="xsl.file" value="dictToBundle.xsl" />
+	<property name="doc.xsl.file" value="dictToAPI.xsl" />
+	<property name="base.bundle" value="ColdFusion.bun" />
+	
+	<!-- ///////////////////////////////////////////////////////////////// -->
+	<target name="usage" description="Basic usage of the ant script. Most useful from the terminal">
+	<echo> ** Coldfusion tmbundle Ant Build Script. **
+
+You probably want: $ant build
+
+===================================================================
+usage..................This
+
+clean..................Cleans up intermediate files, but leaves the
+.......................build directory in tact.
+
+superclean.............Basically just removes the build directory.
+    
+createSnippets.........Creates snippets for all the items in the 
+.......................dictionary.
+
+createAPIDoc...........Creates one big HTML file from the dictionary
+
+createBundle...........Copies all the files into the right structure
+.......................for a textmate bundle.
+    
+build..................Does pretty much all of the above (save the
+.......................clean stuff).
+
+===================================================================
+Other general override properties include, but are not limited to
+	-Doutput.name=""
+	-Ddictionary.file=""
+	-Dbundle.uuid=""
+	-Dsyntax.uuid=""
+	-Dcmddoc.uuid=""
+
+For example, to build a Railo bundle you could do:
+
+ant -Doutput.name=Railo \
+	-Ddictionary.file=Resources/railo1.xml \
+	-Dbundle.uuid=2E937CBE-9B70-42C6-974A-987E8848251E \
+	-Dsyntax.uuid=888FB6E0-4CBC-4521-A51C-3D03AAB85F01 \
+	-Dcmddoc.uuid=632D2425-1F06-4944-9712-7EEA5FE7AE54 \
+	build
+	</echo>
+	</target>
+	
+	<target name="clean">
+		<delete dir="build/${output.bundle}" />
+	</target>
+	
+	<target name="superclean">
+		<delete dir="build" />
+	</target>
+	
+	<target name="createSnippets">
+		<java jar="${saxon.path}" fork="true">
+			<arg value="-o:build/${output.bundle}/info.plist" />
+			<arg value="${dictionary.file}" />
+			<arg value="${xsl.file}" />
+			<arg value="bundle-uuid=${bundle.uuid}" />
+			<arg value="bundle-name=${output.name}" />
+			
+			<arg value="syntax-uuid=${snytax.uuid}" />
+			<arg value="cmddoc-uuid=${cmddoc.uuid}" />
+			<arg value="tagcomplete-uuid=${tagcomplete.uuid}" />
+			<arg value="attcomplete-uuid=${attcomplete.uuid}" />
+		</java>
+	</target>
+	
+	<target name="createAPIDoc">
+		<java jar="${saxon.path}" fork="true">
+			<arg value="-o:doc/${output.name}.html" />
+			<arg value="${dictionary.file}" />
+			<arg value="${doc.xsl.file}" />
+			<!-- <arg value="bundle-uuid=${bundle.uuid}" />
+			<arg value="bundle-name=${output.name}" /> -->
+		</java>
+	</target>
+	
+	<target name="createBundle">
+		<copy todir="build/${output.bundle}">
+			<fileset dir="${base.bundle}"/>
+			<filterset>
+				<filter token="BUNDLE_NAME" value="${output.name}"/>
+				<filter token="BUNDLE_UUID" value="${bundle.uuid}"/>
+				<filter token="SYNTAX_UUID" value="${syntax.uuid}"/>
+				<filter token="CMDDOC_UUID" value="${cmddoc.uuid}"/>
+				<filter token="TAGCOMPLETE_UUID" value="${tagcomplete.uuid}"/>
+				<filter token="ATTRCOMPLETE_UUID" value="${attcomplete.uuid}"/>
+			</filterset>
+		</copy>
+	</target>
+	
+	<target name="build">
+		<mkdir dir="build" />
+		<antcall target="createBundle" />
+		<antcall target="createSnippets" />
+		<antcall target="createAPIDoc" />
+	</target>
+</project>

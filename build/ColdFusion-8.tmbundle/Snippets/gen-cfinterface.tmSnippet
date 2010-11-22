@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfinterface ${1:${2:displayName="$3" }${4:extends="$5" }${6:displayName="$7"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfinterface</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfinterface</string>
+      <key>uuid</key>
+      <string>aa540bcb-0b18-48cf-9f97-9031eb9a20d4</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfpdfformparam ${1:${2:index="$3" }${4:name="$5" }${6:value="$7"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfpdfformparam</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfpdfformparam</string>
+      <key>uuid</key>
+      <string>71c14209-5af8-4d76-812f-d286e3a6168c</string>
+   </dict>
+</plist>

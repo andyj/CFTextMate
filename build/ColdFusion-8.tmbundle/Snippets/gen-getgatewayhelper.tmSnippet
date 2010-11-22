@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getgatewayhelper(${1:"${2:gatewayID}"})</string>
+      <key>name</key>
+      <string>getgatewayhelper</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getgatewayhelper</string>
+      <key>uuid</key>
+      <string>4b836334-17b8-415b-8fd3-03c40ab426c3</string>
+   </dict>
+</plist>

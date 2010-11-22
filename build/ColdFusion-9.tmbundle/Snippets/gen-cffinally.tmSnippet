@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cffinally ${1:}&gt;
+	$0
+&lt;/cffinally&gt;</string>
+      <key>name</key>
+      <string>cffinally</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cffinally</string>
+      <key>uuid</key>
+      <string>4501a0a9-f9dc-4fbd-a1e4-5644a95f6fe7</string>
+   </dict>
+</plist>

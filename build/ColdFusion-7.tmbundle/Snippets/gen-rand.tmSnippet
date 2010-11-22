@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>rand(${1:${2:[algorithm]}})</string>
+      <key>name</key>
+      <string>rand</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>rand</string>
+      <key>uuid</key>
+      <string>d59ce3b6-819b-4674-885a-691a714dacf2</string>
+   </dict>
+</plist>

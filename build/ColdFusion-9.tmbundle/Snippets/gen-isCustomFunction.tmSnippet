@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isCustomFunction(${1:${2:Object}})</string>
+      <key>name</key>
+      <string>isCustomFunction</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isCustomFunction</string>
+      <key>uuid</key>
+      <string>68019661-8363-442c-a343-bd60d8ab36cb</string>
+   </dict>
+</plist>

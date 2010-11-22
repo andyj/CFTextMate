@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isXMLRoot(${1:${2:value}})</string>
+      <key>name</key>
+      <string>isXMLRoot</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isXMLRoot</string>
+      <key>uuid</key>
+      <string>fe9d74fc-3a0b-486d-8fa4-ac0bc8e6e015</string>
+   </dict>
+</plist>

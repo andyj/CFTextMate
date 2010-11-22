@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getFileInfo(${1:"${2:path}"})</string>
+      <key>name</key>
+      <string>getFileInfo</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getFileInfo</string>
+      <key>uuid</key>
+      <string>72dc7494-db30-4fc1-9789-a7870c36071c</string>
+   </dict>
+</plist>

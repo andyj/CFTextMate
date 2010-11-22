@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>querySort(${1:${2:query}, "${3:column}", "${4:sortType}"${5:, [direction]}})</string>
+      <key>name</key>
+      <string>querySort</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>querySort</string>
+      <key>uuid</key>
+      <string>9d9b7323-a131-4b17-94f8-0c61f1174e60</string>
+   </dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cftextarea ${1:${2:name="$3" }${4:id="$5" }${6:label="$7" }${8:style="$9" }${10:required="$11" }${12:validate="$13" }${14:validateat="$15" }${16:message="$17" }${18:range="$19" }${20:richtext="$21" }${22:maxlength="$23" }${24:pattern="$25" }${26:onvalidate="$27" }${28:onerror="$29" }${30:disabled="$31" }${32:value="$33" }${34:bind="$35" }${36:onkeyup="$37" }${38:onkeydown="$39" }${40:onmouseup="$41" }${42:onmousedown="$43" }${44:onchange="$45" }${46:onclick="$47" }${48:enabled="$49" }${50:visible="$51" }${52:tooltip="$53" }${54:height="$55" }${56:width="$57"}}&gt;
+	$0
+&lt;/cftextarea&gt;</string>
+      <key>name</key>
+      <string>cftextarea</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cftextarea</string>
+      <key>uuid</key>
+      <string>9a49234b-c3b3-4f87-a49f-7444dbf4114d</string>
+   </dict>
+</plist>

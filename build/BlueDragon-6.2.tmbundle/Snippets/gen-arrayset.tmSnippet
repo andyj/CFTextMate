@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>arrayset(${1:${2:array}, ${3:start_pos}, ${4:end_pos}, ${5:value}})</string>
+      <key>name</key>
+      <string>arrayset</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>arrayset</string>
+      <key>uuid</key>
+      <string>79dd29fe-82a4-4abb-af45-f6b7c4a5595a</string>
+   </dict>
+</plist>

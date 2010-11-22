@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>structkeyexists(${1:${2:structure}, "${3:key}"})</string>
+      <key>name</key>
+      <string>structkeyexists</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>structkeyexists</string>
+      <key>uuid</key>
+      <string>a3d064ea-9b06-42d3-a0f2-964fa76cdd7d</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isquery(${1:"${2:value}"})</string>
+      <key>name</key>
+      <string>isquery</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isquery</string>
+      <key>uuid</key>
+      <string>fab47d4b-11c4-49cd-9fd6-2e9970a33000</string>
+   </dict>
+</plist>

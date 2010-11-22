@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>xmlsearch(${1:${2:xmldoc}, "${3:xpathstring}"})</string>
+      <key>name</key>
+      <string>xmlsearch</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>xmlsearch</string>
+      <key>uuid</key>
+      <string>096cee78-8994-42c7-8657-f3f3d52a9773</string>
+   </dict>
+</plist>

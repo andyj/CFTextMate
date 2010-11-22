@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getdirectoryfrompath(${1:"${2:path}"})</string>
+      <key>name</key>
+      <string>getdirectoryfrompath</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getdirectoryfrompath</string>
+      <key>uuid</key>
+      <string>247ba0d1-8b32-4f4d-b822-037637af2aed</string>
+   </dict>
+</plist>

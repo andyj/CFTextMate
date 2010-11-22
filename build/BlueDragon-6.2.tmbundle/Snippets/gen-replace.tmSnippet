@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>replace(${1:"${2:String}", "${3:substring1}", "${4:substring2}"${5:, [scope]}})</string>
+      <key>name</key>
+      <string>replace</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>replace</string>
+      <key>uuid</key>
+      <string>d0d8e5d1-2453-478e-820f-5e3dfa7bd712</string>
+   </dict>
+</plist>

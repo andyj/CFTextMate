@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>fileSkipBytes(${1:${2:file}, ${3:bytes}})</string>
+      <key>name</key>
+      <string>fileSkipBytes</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>fileSkipBytes</string>
+      <key>uuid</key>
+      <string>211d0307-9dad-45b5-8103-ef7c1912c731</string>
+   </dict>
+</plist>

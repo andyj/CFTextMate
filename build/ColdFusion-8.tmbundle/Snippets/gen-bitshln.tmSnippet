@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>bitshln(${1:${2:number}, ${3:count}})</string>
+      <key>name</key>
+      <string>bitshln</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>bitshln</string>
+      <key>uuid</key>
+      <string>78234508-a30c-40ae-a383-07d4278c6102</string>
+   </dict>
+</plist>

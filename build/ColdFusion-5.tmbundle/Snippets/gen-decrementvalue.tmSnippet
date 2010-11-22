@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>decrementvalue(${1:${2:number}})</string>
+      <key>name</key>
+      <string>decrementvalue</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>decrementvalue</string>
+      <key>uuid</key>
+      <string>e8439e08-83d6-40de-a9eb-d66e121df6e7</string>
+   </dict>
+</plist>

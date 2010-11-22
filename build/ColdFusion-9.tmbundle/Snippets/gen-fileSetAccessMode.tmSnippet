@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>fileSetAccessMode(${1:"${2:filePath}", "${3:mode}"})</string>
+      <key>name</key>
+      <string>fileSetAccessMode</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>fileSetAccessMode</string>
+      <key>uuid</key>
+      <string>cf1c97ec-e282-47c6-b455-899f0be38d31</string>
+   </dict>
+</plist>

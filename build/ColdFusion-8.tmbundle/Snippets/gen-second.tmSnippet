@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>second(${1:${2:date}})</string>
+      <key>name</key>
+      <string>second</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>second</string>
+      <key>uuid</key>
+      <string>783776df-1e4e-48ba-901d-26373d17e3a3</string>
+   </dict>
+</plist>

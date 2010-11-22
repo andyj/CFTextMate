@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getsoaprequest(${1:})</string>
+      <key>name</key>
+      <string>getsoaprequest</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getsoaprequest</string>
+      <key>uuid</key>
+      <string>2b6b1aa8-3eba-4f87-a44a-6915dc71eec8</string>
+   </dict>
+</plist>

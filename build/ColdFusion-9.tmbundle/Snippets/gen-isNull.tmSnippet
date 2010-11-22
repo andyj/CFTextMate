@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isNull(${1:${2:object}})</string>
+      <key>name</key>
+      <string>isNull</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isNull</string>
+      <key>uuid</key>
+      <string>902f3c94-e76c-427f-92e1-828a4c89f31f</string>
+   </dict>
+</plist>

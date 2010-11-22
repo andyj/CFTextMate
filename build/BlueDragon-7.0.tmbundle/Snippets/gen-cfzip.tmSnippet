@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfzip ${1:${2:action="$3" }${4:zipfile="$5" }${6:source="$7" }${8:recurse="$9" }${10:filter="$11" }${12:timeout="$13" }${14:compressionLevel="$15" }${16:newPath="$17" }${18:prefix="$19" }${20:variable="$21" }${22:destination="$23" }${24:flatten="$25"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfzip</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfzip</string>
+      <key>uuid</key>
+      <string>eb867a4f-23ef-4f9a-97e5-ca56ff1f1bc8</string>
+   </dict>
+</plist>

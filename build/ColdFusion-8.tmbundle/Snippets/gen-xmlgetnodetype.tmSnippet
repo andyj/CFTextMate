@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>xmlgetnodetype(${1:${2:xmlNode}})</string>
+      <key>name</key>
+      <string>xmlgetnodetype</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>xmlgetnodetype</string>
+      <key>uuid</key>
+      <string>f0e9e00f-3de5-493b-8134-9be21b14b7a4</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>ajaxLink(${1:"${2:url}"})</string>
+      <key>name</key>
+      <string>ajaxLink</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ajaxLink</string>
+      <key>uuid</key>
+      <string>2183be85-048b-48ac-966c-14a5b5533ee9</string>
+   </dict>
+</plist>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>name</key>
+      <string>Completions Tags</string>
+      <key>scope</key>
+      <string>text.html -(meta.tag | source), invalid.illegal.incomplete.html -source</string>
+      <key>settings</key>
+      <dict>
+         <key>shellVariables</key>
+         <array>
+            <dict>
+               <key>name</key>
+               <string>TM_COMPLETION_split</string>
+               <key>value</key>
+               <string>,</string>
+            </dict>
+            <dict>
+               <key>name</key>
+               <string>TM_COMPLETIONS</string>
+               <key>value</key>
+               <string>abort,applet,application,argument,associate,break,cache,case,catch,chart,chartdata,chartseries,col,collection,component,content,cookie,defaultcase,directory,dump,else,elseif,error,execute,exit,file,flush,form,ftp,function,grid,gridcolumn,gridrow,gridupdate,header,htmlhead,http,httpparam,if,import,include,index,input,insert,invoke,invokeargument,ldap,location,lock,log,login,loginuser,logout,loop,mail,mailparam,mailpart,module,object,objectcache,output,param,pop,processingdirective,procparam,procresult,property,query,queryparam,registry,report,rethrow,return,savecontent,schedule,script,search,select,set,setting,silent,slider,storedproc,switch,table,textinput,throw,trace,transaction,tree,treeitem,try,update,wddx,xml,</string>
+            </dict>
+         </array>
+      </dict>
+      <key>uuid</key>
+      <string>0085e998-f2e4-4deb-afcb-3dc7f593a65b</string>
+   </dict>
+</plist>

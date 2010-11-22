@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isk2serverdoccountexceeded(${1:})</string>
+      <key>name</key>
+      <string>isk2serverdoccountexceeded</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isk2serverdoccountexceeded</string>
+      <key>uuid</key>
+      <string>faa3785a-c4fa-4993-aed8-4ac4179f6ee3</string>
+   </dict>
+</plist>

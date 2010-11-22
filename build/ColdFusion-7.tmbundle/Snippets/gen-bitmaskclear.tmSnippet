@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>bitmaskclear(${1:${2:number}, ${3:start}, ${4:length}})</string>
+      <key>name</key>
+      <string>bitmaskclear</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>bitmaskclear</string>
+      <key>uuid</key>
+      <string>8d104c3d-9a02-49a1-9d1d-190b3c0b08bd</string>
+   </dict>
+</plist>

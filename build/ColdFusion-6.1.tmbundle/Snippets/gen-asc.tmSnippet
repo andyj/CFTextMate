@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>asc(${1:"${2:String}"})</string>
+      <key>name</key>
+      <string>asc</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>asc</string>
+      <key>uuid</key>
+      <string>65bf5b05-6d20-4d46-81b4-31fdd039a672</string>
+   </dict>
+</plist>

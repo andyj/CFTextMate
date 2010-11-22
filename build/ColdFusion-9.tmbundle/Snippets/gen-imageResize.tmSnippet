@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageResize(${1:"${2:name}", ${3:width}, ${4:height}, "${5:interpolation}", ${6:blurfactor}})</string>
+      <key>name</key>
+      <string>imageResize</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageResize</string>
+      <key>uuid</key>
+      <string>10b29b82-44be-44dc-985b-f5c3bda863eb</string>
+   </dict>
+</plist>

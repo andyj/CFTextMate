@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cflocation ${1:${2:url="$3" }${4:addtoken="$5"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cflocation</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cflocation</string>
+      <key>uuid</key>
+      <string>6d7d5d9f-856b-4732-807e-6b6a0b2bf73c</string>
+   </dict>
+</plist>

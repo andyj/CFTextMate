@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageNew(${1:${2:[source]}${3:, [width]}${4:, [height]}${5:, [imagetype]}${6:, [canvascolor]}})</string>
+      <key>name</key>
+      <string>imageNew</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageNew</string>
+      <key>uuid</key>
+      <string>248d5dc7-67c6-4f13-bc87-b09ec513286f</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>structcount(${1:${2:structure}})</string>
+      <key>name</key>
+      <string>structcount</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>structcount</string>
+      <key>uuid</key>
+      <string>43192bd9-ab31-4c9b-93c1-7c240cec257c</string>
+   </dict>
+</plist>

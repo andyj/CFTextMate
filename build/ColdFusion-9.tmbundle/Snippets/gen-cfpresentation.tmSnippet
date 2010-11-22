@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfpresentation ${1:${2:backgroundColor="$3" }${4:control="$5" }${6:controlLocation="$7" }${8:directory="$9" }${10:glowColor="$11" }${12:initialTab="$13" }${14:lightColor="$15" }${16:overwrite="$17" }${18:primaryColor="$19" }${20:shadowColor="$21" }${22:showNotes="$23" }${24:showOutline="$25" }${26:showSearch="$27" }${28:textColor="$29" }${30:title="$31" }${32:authpassword="$33" }${34:authuser="$35" }${36:autoplay="$37" }${38:loop="$39" }${40:proxypassword="$41" }${42:proxyuser="$43" }${44:proxyhost="$45" }${46:proxyport="$47" }${48:useragent="$49" }${50:destination="$51" }${52:format="$53"}}&gt;
+	$0
+&lt;/cfpresentation&gt;</string>
+      <key>name</key>
+      <string>cfpresentation</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfpresentation</string>
+      <key>uuid</key>
+      <string>cacb47c6-ffcb-401d-8dc0-a8f9cbe21c5a</string>
+   </dict>
+</plist>

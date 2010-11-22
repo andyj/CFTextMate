@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>entityLoadByPK(${1:"${2:entityName}", ${3:id}})</string>
+      <key>name</key>
+      <string>entityLoadByPK</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>entityLoadByPK</string>
+      <key>uuid</key>
+      <string>6e6cd352-4691-4867-a438-c8fc69aea484</string>
+   </dict>
+</plist>

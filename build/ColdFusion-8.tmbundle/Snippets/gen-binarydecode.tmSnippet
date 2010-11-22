@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>binarydecode(${1:"${2:String}", "${3:binaryencoding}"})</string>
+      <key>name</key>
+      <string>binarydecode</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>binarydecode</string>
+      <key>uuid</key>
+      <string>c51b96d6-fa6c-430d-91fb-605317161696</string>
+   </dict>
+</plist>

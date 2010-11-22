@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getSOAPRequest(${1:})</string>
+      <key>name</key>
+      <string>getSOAPRequest</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getSOAPRequest</string>
+      <key>uuid</key>
+      <string>d95b7abe-67d4-4417-9f2e-227e5935baa1</string>
+   </dict>
+</plist>

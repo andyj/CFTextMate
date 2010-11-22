@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>iIf(${1:${2:condition}, "${3:expression1}", "${4:expression2}"})</string>
+      <key>name</key>
+      <string>iIf</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>iIf</string>
+      <key>uuid</key>
+      <string>8a7044ee-d456-4993-a925-cba392585950</string>
+   </dict>
+</plist>

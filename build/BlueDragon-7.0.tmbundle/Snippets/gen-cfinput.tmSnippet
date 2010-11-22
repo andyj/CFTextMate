@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfinput ${1:${2:name="$3" }${4:id="$5" }${6:type="$7" }${8:style="$9" }${10:class="$11" }${12:required="$13" }${14:validate="$15" }${16:message="$17" }${18:range="$19" }${20:maxlength="$21" }${22:pattern="$23" }${24:onvalidate="$25" }${26:onerror="$27" }${28:size="$29" }${30:value="$31" }${32:checked="$33" }${34:passthrough="$35"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfinput</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfinput</string>
+      <key>uuid</key>
+      <string>063cf99c-a19a-430b-8a76-d5802aad5472</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>ormEvictCollection(${1:"${2:componentName}", "${3:relationName}"${4:, [id]}})</string>
+      <key>name</key>
+      <string>ormEvictCollection</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ormEvictCollection</string>
+      <key>uuid</key>
+      <string>09333f49-c341-49b6-bf76-516457676a0b</string>
+   </dict>
+</plist>

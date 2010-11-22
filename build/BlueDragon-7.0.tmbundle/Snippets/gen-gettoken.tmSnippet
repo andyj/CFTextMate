@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>gettoken(${1:"${2:String}", ${3:index}${4:, [delimiters]}})</string>
+      <key>name</key>
+      <string>gettoken</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>gettoken</string>
+      <key>uuid</key>
+      <string>038af05f-2eb8-4bc2-bebf-cd88de6a2a50</string>
+   </dict>
+</plist>

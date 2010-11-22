@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>arrayMax(${1:${2:array}})</string>
+      <key>name</key>
+      <string>arrayMax</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>arrayMax</string>
+      <key>uuid</key>
+      <string>17517269-3fcb-4ff5-b389-ea190251ea64</string>
+   </dict>
+</plist>

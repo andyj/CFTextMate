@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>createdatetime(${1:${2:year}, ${3:month}, ${4:day}, ${5:hour}, ${6:minute}, ${7:second}})</string>
+      <key>name</key>
+      <string>createdatetime</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>createdatetime</string>
+      <key>uuid</key>
+      <string>3a645464-d645-4f18-8c69-d7edeb5a309e</string>
+   </dict>
+</plist>

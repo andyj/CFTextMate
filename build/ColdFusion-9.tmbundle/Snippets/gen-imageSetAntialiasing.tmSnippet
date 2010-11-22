@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageSetAntialiasing(${1:"${2:name}"${3:, [antialias]}})</string>
+      <key>name</key>
+      <string>imageSetAntialiasing</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageSetAntialiasing</string>
+      <key>uuid</key>
+      <string>878611e4-cf79-4191-a499-399cbe2a4bf6</string>
+   </dict>
+</plist>

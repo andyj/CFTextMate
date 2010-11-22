@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cflayoutarea ${1:${2:position="$3" }${4:align="$5" }${6:closable="$7" }${8:collapsible="$9" }${10:disabled="$11" }${12:initCollapsed="$13" }${14:initHide="$15" }${16:maxSize="$17" }${18:minSize="$19" }${20:name="$21" }${22:onBindError="$23" }${24:overflow="$25" }${26:selected="$27" }${28:size="$29" }${30:source="$31" }${32:splitter="$33" }${34:style="$35" }${36:title="$37" }${38:refreshonactivate="$39" }${40:titleIcon="$41" }${42:bindOnLoad="$43"}}&gt;
+	$0
+&lt;/cflayoutarea&gt;</string>
+      <key>name</key>
+      <string>cflayoutarea</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cflayoutarea</string>
+      <key>uuid</key>
+      <string>014bdde1-8aab-4393-ac4d-986ad67e81a9</string>
+   </dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfprocessingdirective ${1:${2:suppressWhitespace="$3" }${4:pageEncoding="$5"}}&gt;
+	$0
+&lt;/cfprocessingdirective&gt;</string>
+      <key>name</key>
+      <string>cfprocessingdirective</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfprocessingdirective</string>
+      <key>uuid</key>
+      <string>4090cea0-4c21-425f-aec4-8735582eccd2</string>
+   </dict>
+</plist>

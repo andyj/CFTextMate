@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfthrottle ${1:${2:action="$3" }${4:history="$5" }${6:token="$7" }${8:hitThreshold="$9" }${10:hitTimePeriod="$11" }${12:minHitTime="$13"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfthrottle</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfthrottle</string>
+      <key>uuid</key>
+      <string>0e652622-62d2-4c04-a0d5-9a6d2890d920</string>
+   </dict>
+</plist>

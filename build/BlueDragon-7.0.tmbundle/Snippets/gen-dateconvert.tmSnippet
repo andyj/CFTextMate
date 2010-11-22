@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>dateconvert(${1:"${2:type}", ${3:date}})</string>
+      <key>name</key>
+      <string>dateconvert</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>dateconvert</string>
+      <key>uuid</key>
+      <string>d44bc544-89fe-4ee3-b1ec-5bb5cbee1419</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfexchangefilter ${1:${2:name="$3" }${4:from="$5" }${6:to="$7" }${8:value="$9"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfexchangefilter</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfexchangefilter</string>
+      <key>uuid</key>
+      <string>b6d2bad7-0199-445f-8d7b-a74db3925ae0</string>
+   </dict>
+</plist>

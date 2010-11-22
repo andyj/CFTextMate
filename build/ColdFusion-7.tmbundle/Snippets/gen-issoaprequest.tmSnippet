@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>issoaprequest(${1:})</string>
+      <key>name</key>
+      <string>issoaprequest</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>issoaprequest</string>
+      <key>uuid</key>
+      <string>c5722548-3697-411f-93a9-5342db083fc0</string>
+   </dict>
+</plist>

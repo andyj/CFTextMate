@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getmetricdata(${1:"${2:mode}"})</string>
+      <key>name</key>
+      <string>getmetricdata</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getmetricdata</string>
+      <key>uuid</key>
+      <string>6b564777-2d66-4c6e-9279-b1417c5cbc5b</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>randrange(${1:${2:number1}, ${3:number2}})</string>
+      <key>name</key>
+      <string>randrange</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>randrange</string>
+      <key>uuid</key>
+      <string>e8db639c-ee53-4055-a4d2-963322c17d91</string>
+   </dict>
+</plist>

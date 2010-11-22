@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfpresenter ${1:${2:biography="$3" }${4:email="$5" }${6:image="$7" }${8:name="$9" }${10:logo="$11" }${12:title="$13"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfpresenter</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfpresenter</string>
+      <key>uuid</key>
+      <string>58ffe9bb-1c21-4537-bd69-44ee3f513e70</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>entityNew(${1:"${2:entityName}"})</string>
+      <key>name</key>
+      <string>entityNew</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>entityNew</string>
+      <key>uuid</key>
+      <string>dd7a4d04-4f34-455a-9967-cc494ee12138</string>
+   </dict>
+</plist>

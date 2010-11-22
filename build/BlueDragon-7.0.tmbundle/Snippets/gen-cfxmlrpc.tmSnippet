@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfxmlrpc ${1:${2:server="$3" }${4:method="$5" }${6:params="$7"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfxmlrpc</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfxmlrpc</string>
+      <key>uuid</key>
+      <string>b7360b66-5e26-4458-b6fb-4c5397791704</string>
+   </dict>
+</plist>

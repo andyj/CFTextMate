@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>comparenocase(${1:"${2:string1}", "${3:string2}"})</string>
+      <key>name</key>
+      <string>comparenocase</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>comparenocase</string>
+      <key>uuid</key>
+      <string>bc25bd95-9db9-40d0-a2dd-4d4e45a04c64</string>
+   </dict>
+</plist>

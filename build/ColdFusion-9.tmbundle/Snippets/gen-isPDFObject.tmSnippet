@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isPDFObject(${1:${2:value}})</string>
+      <key>name</key>
+      <string>isPDFObject</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isPDFObject</string>
+      <key>uuid</key>
+      <string>e0b64e17-d7c6-4629-a214-098ee0f8f2ce</string>
+   </dict>
+</plist>

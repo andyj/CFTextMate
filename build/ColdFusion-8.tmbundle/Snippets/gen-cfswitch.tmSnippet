@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfswitch ${1:${2:expression="$3"}}&gt;
+	$0
+&lt;/cfswitch&gt;</string>
+      <key>name</key>
+      <string>cfswitch</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfswitch</string>
+      <key>uuid</key>
+      <string>3094a0ce-b224-495c-8fd2-305c964ee613</string>
+   </dict>
+</plist>

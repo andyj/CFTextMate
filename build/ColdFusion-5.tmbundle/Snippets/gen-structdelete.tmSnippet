@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>structdelete(${1:"${2:structure}", "${3:key}"${4:, [indicatenotexisting]}})</string>
+      <key>name</key>
+      <string>structdelete</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>structdelete</string>
+      <key>uuid</key>
+      <string>ff76cafb-9949-4669-b6d9-7896d035b847</string>
+   </dict>
+</plist>

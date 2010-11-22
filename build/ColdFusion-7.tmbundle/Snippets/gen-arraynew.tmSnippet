@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>arraynew(${1:${2:dimension}})</string>
+      <key>name</key>
+      <string>arraynew</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>arraynew</string>
+      <key>uuid</key>
+      <string>4eb40412-ca04-4153-806d-3012fe65299e</string>
+   </dict>
+</plist>

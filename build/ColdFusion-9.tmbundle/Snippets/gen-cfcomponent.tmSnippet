@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfcomponent ${1:${2:extends="$3" }${4:initmethod="$5" }${6:implements="$7" }${8:output="$9" }${10:displayname="$11" }${12:hint="$13" }${14:style="$15" }${16:namespace="$17" }${18:serviceportname="$19" }${20:porttypename="$21" }${22:bindingname="$23" }${24:wsdlfile="$25" }${26:serviceaddress="$27" }${28:persistent="$29" }${30:entityname="$31" }${32:table="$33" }${34:schema="$35" }${36:catalog="$37" }${38:dynamicinsert="$39" }${40:dynamicupdate="$41" }${42:readonly="$43" }${44:selectbeforeupdate="$45" }${46:batchsize="$47" }${48:optimisticlock="$49" }${50:lazy="$51" }${52:rowid="$53" }${54:discriminatorColumn="$55" }${56:discriminatorValue="$57" }${58:joinColumn="$59" }${60:embedded="$61" }${62:cacheUse="$63" }${64:cacheName="$65" }${66:saveMapping="$67" }${68:accessors="$69" }${70:serializable="$71" }${72:attribute="$73"}}&gt;
+	$0
+&lt;/cfcomponent&gt;</string>
+      <key>name</key>
+      <string>cfcomponent</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfcomponent</string>
+      <key>uuid</key>
+      <string>c52cb697-0d17-4d0c-bc46-b0d663774f79</string>
+   </dict>
+</plist>

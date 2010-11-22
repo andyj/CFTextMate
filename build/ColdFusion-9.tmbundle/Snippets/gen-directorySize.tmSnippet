@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>directorySize(${1:"${2:path}"})</string>
+      <key>name</key>
+      <string>directorySize</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>directorySize</string>
+      <key>uuid</key>
+      <string>a725468f-13e3-44dd-97cf-1d1bcd3aa6fb</string>
+   </dict>
+</plist>

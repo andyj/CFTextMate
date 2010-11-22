@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>dateadd(${1:"${2:datepart}", ${3:number}, ${4:date}})</string>
+      <key>name</key>
+      <string>dateadd</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>dateadd</string>
+      <key>uuid</key>
+      <string>e209caab-2dd9-44bb-83d7-0673067b0ef7</string>
+   </dict>
+</plist>

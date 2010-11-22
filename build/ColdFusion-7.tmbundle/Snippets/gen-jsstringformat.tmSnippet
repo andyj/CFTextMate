@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>jsstringformat(${1:"${2:String}"})</string>
+      <key>name</key>
+      <string>jsstringformat</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>jsstringformat</string>
+      <key>uuid</key>
+      <string>8dad7474-45fa-4f06-b9dd-c5f542702aa4</string>
+   </dict>
+</plist>

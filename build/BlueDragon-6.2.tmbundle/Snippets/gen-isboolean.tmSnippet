@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isboolean(${1:${2:value}})</string>
+      <key>name</key>
+      <string>isboolean</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isboolean</string>
+      <key>uuid</key>
+      <string>c72cd3bb-6d86-4bea-a59d-e79cd0277154</string>
+   </dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfinvoke ${1:${2:component="$3" }${4:method="$5" }${6:returnvariable="$7" }${8:argumentcollection="$9" }${10:username="$11" }${12:password="$13" }${14:webservice="$15" }${16:timeout="$17" }${18:proxyserver="$19" }${20:proxyport="$21" }${22:proxyuser="$23" }${24:proxypassword="$25" }${26:serviceport="$27" }${28:refreshwsdl="$29" }${30:wsdl2javaargs="$31"}}&gt;
+	$0
+&lt;/cfinvoke&gt;</string>
+      <key>name</key>
+      <string>cfinvoke</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfinvoke</string>
+      <key>uuid</key>
+      <string>f8d66506-df3c-4fcd-8427-8a14e6013368</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>gettimezoneinfo(${1:"${2:text}"})</string>
+      <key>name</key>
+      <string>gettimezoneinfo</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>gettimezoneinfo</string>
+      <key>uuid</key>
+      <string>7afa51c0-d97d-4cab-9604-0dc887bd00a7</string>
+   </dict>
+</plist>

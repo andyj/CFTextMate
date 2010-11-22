@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>structupdate(${1:${2:structure}, "${3:key}", ${4:value}})</string>
+      <key>name</key>
+      <string>structupdate</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>structupdate</string>
+      <key>uuid</key>
+      <string>5e81cb97-29f4-4fda-8c04-cd0869d2c66c</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageScaleTofit(${1:"${2:name}", ${3:fitWidth}, ${4:fitHeight}${5:, [interpolation]}${6:, [blurFactor]}})</string>
+      <key>name</key>
+      <string>imageScaleTofit</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageScaleTofit</string>
+      <key>uuid</key>
+      <string>a8aa4e80-3164-4911-9452-211fcc5ab1bd</string>
+   </dict>
+</plist>

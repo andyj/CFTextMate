@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>evaluate(${1:"${2:expression1}"${3:, [expression2]}${4:, [expressionN]}})</string>
+      <key>name</key>
+      <string>evaluate</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>evaluate</string>
+      <key>uuid</key>
+      <string>a6e539ba-e5ca-4d61-b253-4926426e00a5</string>
+   </dict>
+</plist>

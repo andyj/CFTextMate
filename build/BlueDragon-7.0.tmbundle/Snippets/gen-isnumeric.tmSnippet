@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isnumeric(${1:"${2:String}"})</string>
+      <key>name</key>
+      <string>isnumeric</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isnumeric</string>
+      <key>uuid</key>
+      <string>0da7c265-c0a7-4dfc-84d9-a6f9c20be8fd</string>
+   </dict>
+</plist>

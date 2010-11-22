@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>arraysum(${1:${2:array}})</string>
+      <key>name</key>
+      <string>arraysum</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>arraysum</string>
+      <key>uuid</key>
+      <string>ef88aa63-3d9e-4e72-841a-4cd2dd09df49</string>
+   </dict>
+</plist>

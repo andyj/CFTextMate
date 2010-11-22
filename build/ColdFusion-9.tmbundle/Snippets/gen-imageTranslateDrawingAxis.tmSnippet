@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>imageTranslateDrawingAxis(${1:${2:Param1}, "${3:name}", ${4:x}, ${5:y}})</string>
+      <key>name</key>
+      <string>imageTranslateDrawingAxis</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>imageTranslateDrawingAxis</string>
+      <key>uuid</key>
+      <string>2f06ee9f-0457-46db-9382-f86858e2abe8</string>
+   </dict>
+</plist>

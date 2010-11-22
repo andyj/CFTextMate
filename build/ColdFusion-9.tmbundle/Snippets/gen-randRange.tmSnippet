@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>randRange(${1:${2:number1}, ${3:number2}${4:, [algorithm]}})</string>
+      <key>name</key>
+      <string>randRange</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>randRange</string>
+      <key>uuid</key>
+      <string>ea3e8991-e888-4dd0-b983-e55291c8a1e1</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>reverse(${1:"${2:String}"})</string>
+      <key>name</key>
+      <string>reverse</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>reverse</string>
+      <key>uuid</key>
+      <string>ec243c68-14ac-409a-a151-c41265590cb4</string>
+   </dict>
+</plist>

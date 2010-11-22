@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfcontent ${1:${2:type="$3" }${4:deletefile="$5" }${6:file="$7" }${8:variable="$9" }${10:reset="$11"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfcontent</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfcontent</string>
+      <key>uuid</key>
+      <string>b747fb89-8bd8-479c-b631-f44d43f0f2e1</string>
+   </dict>
+</plist>

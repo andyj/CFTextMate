@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>objectSave(${1:${2:object}${3:, [file]}})</string>
+      <key>name</key>
+      <string>objectSave</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>objectSave</string>
+      <key>uuid</key>
+      <string>867c08e2-191f-43aa-9836-c88dd139e382</string>
+   </dict>
+</plist>

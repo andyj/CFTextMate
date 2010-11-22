@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getfunctionlist(${1:})</string>
+      <key>name</key>
+      <string>getfunctionlist</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getfunctionlist</string>
+      <key>uuid</key>
+      <string>086c6748-b85f-492d-bbef-3dd2c535dde1</string>
+   </dict>
+</plist>

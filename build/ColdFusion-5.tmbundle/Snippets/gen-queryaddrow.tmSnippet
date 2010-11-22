@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>queryaddrow(${1:${2:query}${3:, [number]}})</string>
+      <key>name</key>
+      <string>queryaddrow</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>queryaddrow</string>
+      <key>uuid</key>
+      <string>ffb16b03-9fdd-4d92-8624-c7fd2de0db8c</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>listsetat(${1:"${2:list}", ${3:position}, "${4:value}"${5:, [delimiters]}})</string>
+      <key>name</key>
+      <string>listsetat</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>listsetat</string>
+      <key>uuid</key>
+      <string>aa038616-fe39-43fe-84ac-3ebb16c9a4d4</string>
+   </dict>
+</plist>

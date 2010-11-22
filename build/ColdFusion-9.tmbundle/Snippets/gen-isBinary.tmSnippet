@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isBinary(${1:${2:value}})</string>
+      <key>name</key>
+      <string>isBinary</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isBinary</string>
+      <key>uuid</key>
+      <string>6b41620d-c5f1-4f98-a758-3b78ae5cb239</string>
+   </dict>
+</plist>

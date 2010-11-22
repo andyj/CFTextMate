@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>inputbasen(${1:"${2:String}", "${3:radix}"})</string>
+      <key>name</key>
+      <string>inputbasen</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>inputbasen</string>
+      <key>uuid</key>
+      <string>d5410138-2920-4e3d-b0f1-19ba46f57ced</string>
+   </dict>
+</plist>

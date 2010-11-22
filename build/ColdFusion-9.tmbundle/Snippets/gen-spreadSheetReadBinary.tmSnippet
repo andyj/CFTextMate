@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>spreadSheetReadBinary(${1:${2:spreadsheetObj}})</string>
+      <key>name</key>
+      <string>spreadSheetReadBinary</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>spreadSheetReadBinary</string>
+      <key>uuid</key>
+      <string>b73346d2-94a0-490c-9932-55d97831c623</string>
+   </dict>
+</plist>

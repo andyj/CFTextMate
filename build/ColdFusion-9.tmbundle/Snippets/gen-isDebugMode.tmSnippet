@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>isDebugMode(${1:})</string>
+      <key>name</key>
+      <string>isDebugMode</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>isDebugMode</string>
+      <key>uuid</key>
+      <string>dd11708a-a83d-4f44-8bb7-986b227f32d8</string>
+   </dict>
+</plist>

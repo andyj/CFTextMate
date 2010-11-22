@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>urlsessionformat(${1:${2:requesturl}})</string>
+      <key>name</key>
+      <string>urlsessionformat</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>urlsessionformat</string>
+      <key>uuid</key>
+      <string>c8dc4e6d-b010-470d-aacf-9dabe7bb1e0e</string>
+   </dict>
+</plist>

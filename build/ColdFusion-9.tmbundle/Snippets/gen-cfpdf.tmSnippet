@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfpdf ${1:${2:action="$3" }${4:ascending="$5" }${6:copyfrom="$7" }${8:destination="$9" }${10:directory="$11" }${12:encrypt="$13" }${14:flatten="$15" }${16:foreground="$17" }${18:image="$19" }${20:info="$21" }${22:isBase64="$23" }${24:keepbookmark="$25" }${26:name="$27" }${28:newOwnerPassword="$29" }${30:newUserPassword="$31" }${32:opacity="$33" }${34:order="$35" }${36:overwrite="$37" }${38:password="$39" }${40:permissions="$41" }${42:position="$43" }${44:rotation="$45" }${46:showonprint="$47" }${48:source="$49" }${50:type="$51" }${52:version="$53" }${54:transparent="$55" }${56:resolution="$57" }${58:stoponerror="$59" }${60:inputfiles="$61" }${62:scale="$63" }${64:imageprefix="$65" }${66:outputfiles="$67" }${68:pages="$69" }${70:ddxfile="$71" }${72:saveoption="$73" }${74:format="$75" }${76:hires="$77" }${78:maxScale="$79" }${80:maxBreadth="$81" }${82:maxLength="$83" }${84:compressTIFFs="$85" }${86:overridepage="$87" }${88:package="$89" }${90:hScale="$91" }${92:vScale="$93" }${94:noBookMarks="$95" }${96:noAttachments="$97" }${98:noComments="$99" }${100:noJavaScripts="$101" }${102:noLinks="$103" }${104:noMetadata="$105" }${106:noThumbnails="$107" }${108:noFonts="$109" }${110:algo="$111" }${112:topMargin="$113" }${114:leftMargin="$115" }${116:rightMargin="$117" }${118:bottomMargin="$119" }${120:numberFormat="$121" }${122:align="$123" }${124:honourspaces="$125" }${126:addQuads="$127" }${128:text="$129" }${130:useStructure="$131" }${132:jpgdpi="$133" }${134:encodeAll="$135"}} /&gt;$0</string>
+      <key>name</key>
+      <string>cfpdf</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfpdf</string>
+      <key>uuid</key>
+      <string>003b6cb1-f877-4a59-8878-f3ed564d127f</string>
+   </dict>
+</plist>

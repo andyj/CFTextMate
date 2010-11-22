@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>arrayavg(${1:${2:array}})</string>
+      <key>name</key>
+      <string>arrayavg</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>arrayavg</string>
+      <key>uuid</key>
+      <string>209251e4-8232-431c-8a13-ba58f0acf9a0</string>
+   </dict>
+</plist>

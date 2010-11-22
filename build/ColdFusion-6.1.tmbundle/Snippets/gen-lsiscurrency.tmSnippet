@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>lsiscurrency(${1:"${2:String}"})</string>
+      <key>name</key>
+      <string>lsiscurrency</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>lsiscurrency</string>
+      <key>uuid</key>
+      <string>0cad56f3-79f6-4737-b184-15e013a06ed1</string>
+   </dict>
+</plist>

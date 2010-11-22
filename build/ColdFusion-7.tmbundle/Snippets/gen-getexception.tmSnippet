@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getexception(${1:${2:javaobject}})</string>
+      <key>name</key>
+      <string>getexception</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getexception</string>
+      <key>uuid</key>
+      <string>1909f286-d81f-4012-8789-4dd5e36670c7</string>
+   </dict>
+</plist>

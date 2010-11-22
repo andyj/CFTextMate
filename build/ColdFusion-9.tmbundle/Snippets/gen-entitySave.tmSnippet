@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>entitySave(${1:${2:entity}${3:, [forceInsert]}})</string>
+      <key>name</key>
+      <string>entitySave</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>entitySave</string>
+      <key>uuid</key>
+      <string>886cdb17-c20c-44d1-9a85-1d2740fb66c6</string>
+   </dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;cfform ${1:${2:name="$3" }${4:action="$5" }${6:method="$7" }${8:preservedata="$9" }${10:onload="$11" }${12:onsubmit="$13" }${14:codebase="$15" }${16:archive="$17" }${18:scriptsrc="$19" }${20:style="$21" }${22:onreset="$23" }${24:enctype="$25" }${26:id="$27" }${28:target="$29" }${30:class="$31" }${32:passthrough="$33" }${34:enablecab="$35"}}&gt;
+	$0
+&lt;/cfform&gt;</string>
+      <key>name</key>
+      <string>cfform</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>cfform</string>
+      <key>uuid</key>
+      <string>51bb9d7f-37e1-4705-919a-6230840f9bfe</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>structfind(${1:${2:structure}, "${3:key}"})</string>
+      <key>name</key>
+      <string>structfind</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>structfind</string>
+      <key>uuid</key>
+      <string>b7812ace-89d9-4daa-ac2d-872a7d6dfce0</string>
+   </dict>
+</plist>

@@ -26,7 +26,7 @@
 		(&lt;/(?i:head|body|table|thead|tbody|tfoot|tr|div|select|fieldset|style|script|ul|ol|form|dl|cfloop|cfif|cfswitch|cfcomponent|cffunction|cfcase|cfdefaultcase|cfsavecontent|cfscript)&gt; 
 		        |^(?!.*?&lt;!---).*?---\s*&gt;|\} 
 		        )</string>
-		
+
 		<key>keyEquivalent</key>
 		<string>^~@c</string>
 		
@@ -34,7 +34,7 @@
 		<string>@BUNDLE_NAME@</string>
 		
 		<key>patterns</key>
-		<array>
+		<array>				
 			<dict>
 				<key>match</key>
 				<string>&lt;(cf|CF)[\W]*&gt;</string>
@@ -45,6 +45,30 @@
 				<key>include</key>
 				<string>#tag-finder</string>
 			</dict>
+			
+			
+			<dict>
+				<key>begin</key>
+				<string>/\*</string>
+				<key>end</key>
+				<string>(\*/|(?=&lt;/script))</string>
+				<key>captures</key>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>name</key>
+						<string>punctuation.definition.comment.js</string>
+					</dict>
+				</dict>
+				<key>name</key>
+				<string>comment.block.cfml</string>
+			</dict>			
+			
+			
+			
+			
+			
+			
 			<dict>
 				<key>begin</key>
 				<string>&lt;\?(xml)</string>
@@ -337,16 +361,16 @@
 		
 			<dict>
 				<key>begin</key>
-				<string>component|/</string>
+				<string>component\b[^{]*{</string>
 				<key>end</key>
-				<string>/}</string>
+				<string>}$</string>
 				<key>name</key>
-				<string>source.js</string>
+				<string>component.source.coldfusion.embedded.html</string>
 				<key>patterns</key>
 				<array>
 					<dict>
 						<key>include</key>
-						<string>source.js</string>
+						<string>source.java</string>
 					</dict>
 				</array>
 			</dict>			

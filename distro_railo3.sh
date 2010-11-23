@@ -4,8 +4,10 @@ ant clean -Doutput.name=Railo-3
 
 ant -Doutput.name=Railo-3 \
 	-Ddictionary.file=Resources/railo3.xml \
-	-Dbundle.uuid=2E937CBE-9B70-42C6-974A-987E8848251E \
-	-Dsyntax.uuid=888FB6E0-4CBC-4521-A51C-3D03AAB85F01 \
-	-Dcmddoc.uuid=632D2425-1F06-4944-9712-7EEA5FE7AE54 \
+	-Dbundle.uuid=30BE174E-C362-4139-A5AC2145D7584792 \
+	-Dsyntax.uuid=6C4A2B26-2D23-4902-879246C6D6EF2368 \
+	-Dcmddoc.uuid=4E5F6931-3BD8-4A04-87E1653B0A8F4028 \
 	build
 	
+
+

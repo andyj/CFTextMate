@@ -21,38 +21,28 @@
 		</cfscript>
 		
 
-
 		
 		
 <cfxml variable="dict">
 <cfoutput>
 <dictionary xmlns="http://www.cfeclipse.org/version1/dictionary" >			
-	<tags>
-		<cfloop collection="#aTags.cf#" item="t">
-				<cfset tagData = getTagData("cf", t)>
+	<tags> <cfloop collection="#aTags.cf#" item="t"> <cfset tagData = getTagData("cf", t)>
 				<tag name="cf#t#">
 					<help><![CDATA[#tagData.description#]]></help>
-					
 					<cfloop collection="#tagData.attributes#" item="a">
 						<parameter name="#a#">
 							<help><![CDATA[#tagData.attributes[a].description#]]></help>
 							<values/>
-						</parameter>
-						
+						</parameter>						
 					</cfloop>
-					
 				</tag>
-				
 		</cfloop>
 	</tags>
-	<functions>
-		<cfloop collection="#aFuncs#" item="f">
-				<cfset funcData = getFunctionData(f)>
-			<function name="#f#"></function>
-		</cfloop>
-	</functions>
+	<functions><cfloop collection="#aFuncs#" item="f"><cfif !f.startsWith("_")><cfset funcData = getFunctionData(f)>
+			<function name="#f#"></function></cfif>
+</cfloop>	</functions>
 	
-	<scopes></scopes>
+	<cfset WriteOutput(FileRead("Resources/railo_scopes.xml"))>
 </dictionary>			
 </cfoutput>
 </cfxml>
@@ -60,7 +50,5 @@
 			FileWrite("Resources/railo3.2.xml", toString(dict));
 		</cfscript>
 	</cfif>
-
-
 </body>
 </html>

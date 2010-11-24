@@ -1,4 +1,4 @@
-<project name="ColdFusion Textmate Bundle" default="usage">
+<project name="Railo Textmate Bundle" default="usage">
 	<!-- The xslt process needs an XSLT 2.0 processor, so I am using Saxon-->
 	<property name="saxon.path" value="/Users/andyjarrett/Documents/lib/saxonhe9-3-0-1j/saxon9.jar"/>
 	
@@ -20,7 +20,7 @@
 	
 	<!-- ///////////////////////////////////////////////////////////////// -->
 	<target name="usage" description="Basic usage of the ant script. Most useful from the terminal">
-	<echo> ** Coldfusion tmbundle Ant Build Script. **
+	<echo> ** Railo tmbundle Ant Build Script. **
 
 You probably want: $ant build
 

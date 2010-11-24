@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	
+	<key>command</key>
+	<string>#!/usr/bin/env ruby
+line, col = ENV[&quot;TM_CURRENT_LINE&quot;].to_s, ENV[&quot;TM_LINE_INDEX&quot;].to_i
+tag = line =~ /\A.{0,#{col}}&lt;\s*([\w:]+)/ ? $1 : ENV[&quot;TM_CURRENT_WORD&quot;].to_s
+url  = &quot;http://robrohan.com/farcrystuff/@BUNDLE_NAME@.html#&quot; + tag
+puts &quot;&lt;meta http-equiv=&apos;Refresh&apos; content=&apos;0;URL=#{url}&apos;&gt;&quot;</string>
+	
+	<key>input</key>
+	<string>none</string>
+	
+	<key>keyEquivalent</key>
+	<string>^h</string>
+	
+	<key>name</key>
+	<string>Documentation for Tag</string>
+	
+	<key>output</key>
+	<string>showAsHTML</string>
+	
+	<key>scope</key>
+	<string>entity.name.tag.cfml,entity.name.tag.cfquery.html, entity.name.tag.other.html,meta.tag.other.html,text.html.cfm</string>
+	
+	<key>uuid</key>
+	<string>@CMDDOC_UUID@</string>
+</dict>
+</plist>

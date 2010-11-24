@@ -1,11 +1,11 @@
 <project name="Railo Textmate Bundle" default="usage">
 	<!-- The xslt process needs an XSLT 2.0 processor, so I am using Saxon-->
-	<property name="saxon.path" value="/Users/andyjarrett/Documents/lib/saxonhe9-3-0-1j/saxon9.jar"/>
+	<property name="saxon.path" value="lib/saxon9.jar"/>
 	
 	<!-- Probably wont need to change this unless you are going to try to use
 		a different cfeclipse dictionary file. -->
-	<property name="dictionary.file" value="Resources/cf9.xml" />
-	<property name="output.name" value="ColdFusion" />
+	<property name="dictionary.file" value="Resources/railo3.xml" />
+	<property name="output.name" value="Railo" />
 	<property name="output.bundle" value="${output.name}.tmbundle" />
 	
 	<property name="bundle.uuid" value="1A09BE0B-E81A-4CB7-AF69-AFC845162D1F" />
@@ -16,7 +16,7 @@
 	
 	<property name="xsl.file" value="dictToBundle.xsl" />
 	<property name="doc.xsl.file" value="dictToAPI.xsl" />
-	<property name="base.bundle" value="ColdFusion.bun" />
+	<property name="base.bundle" value="Railo.bun" />
 	
 	<!-- ///////////////////////////////////////////////////////////////// -->
 	<target name="usage" description="Basic usage of the ant script. Most useful from the terminal">

@@ -19,7 +19,7 @@ As I am carrying on Rob's work I am keeping this at version 3.0 but calling it b
 欢迎 - Welcome
 ============
 
-大家好！Welcome to the ColdFusion Textmate bundle.  This bit of code will create a [Textmate][textmate] bundle that contains all the tags, functions, and a few basic templates for the CFML language.
+大家好！Welcome to the Railo Textmate bundle.  This bit of code will create a [Textmate][textmate] bundle that contains all the tags, functions, and a few basic templates for the CFML language.
 
 The input to this process is an XML dictionary file in the [cfeclipse][cfeclipse] dictionary format.  This means that if you happen to have a cfeclipse dictionary, you can use this code to create a compliant Textmate bundle (with a bit of tweaking of course).
 
@@ -50,4 +50,4 @@ http://www.apache.org/licenses/
 [ant]: http://ant.apache.org/ "Apache Ant"
 [cfeclipse]: http://cfeclipse.org "CFEclipse"
 [textmate]: http://macromates.com/ "Textmate"
-
+[railo]: http://www.getrailo.org/ "Railo"
